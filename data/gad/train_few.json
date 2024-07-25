@@ -1,0 +1,72 @@
+[
+  {
+    "_id": 0,
+    "label": [
+      "Has_relation"
+    ],
+    "text": "In this study of @DISEASE$ patients, @GENE$ was not related to polymorphisms in the KCNJ11 gene."
+  },
+  {
+    "_id": 0,
+    "label": [
+      "Has_relation"
+    ],
+    "text": "These data show that trp catabolism is genetically controlled by the @GENE$ gene and may thus be operative in those @DISEASE$ conditions associated with the polymorphisms of the IFN-gamma gene."
+  },
+  {
+    "_id": 1,
+    "label": [
+      "No_relation"
+    ],
+    "text": "In our population, we did not demonstrate any effect of the C34T polymorphism of the @GENE$ gene on major @DISEASE$ parameters and on survival."
+  },
+  {
+    "_id": 1,
+    "label": [
+      "No_relation"
+    ],
+    "text": "These data therefore confirm the importance of @GENE$ in @DISEASE$ susceptibility in humans and suggest that SLC11A1 influences tuberculosis susceptibility by regulation of interleukin-10."
+  },
+  {
+    "_id": 1,
+    "label": [
+      "No_relation"
+    ],
+    "text": "The current study does not support the notion that the polymorphism in the @GENE$ gene constitutes a risk factor for either late-onset or early-onset AD, which means that other genetic factors play a role in the development of @DISEASE$ in the Italian population."
+  },
+  {
+    "_id": 1,
+    "label": [
+      "No_relation"
+    ],
+    "text": "Our data suggest that the @GENE$ 5' non-coding region polymorphism modulates NER capacity and is associated with decreased @DISEASE$ risk, especially in the presence of exposure to tobacco carcinogens."
+  },
+  {
+    "_id": 0,
+    "label": [
+      "Has_relation"
+    ],
+    "text": "The @GENE$ @DISEASE$ polymorphism does not play a major role in prostate cancer susceptibility as previously indicated."
+  },
+  {
+    "_id": 1,
+    "label": [
+      "No_relation"
+    ],
+    "text": "Our data suggest that genetic variation in the @GENE$ gene may modify the risk of @DISEASE$ in an APOE*4-dependent fashion."
+  },
+  {
+    "_id": 0,
+    "label": [
+      "Has_relation"
+    ],
+    "text": "These findings suggested that VEGF and its receptor, KDR, genes contributed to the development of @GENE$ in @DISEASE$ patients."
+  },
+  {
+    "_id": 0,
+    "label": [
+      "Has_relation"
+    ],
+    "text": "These findings indicate that genetic variants in @GENE$ may play a role in mediating susceptibility to T2DM in Pima Indians and are consistent with the hypothesis that @DISEASE$ may contribute to the development of T2DM in some individuals."
+  }
+]

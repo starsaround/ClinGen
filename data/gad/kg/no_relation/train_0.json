@@ -1,0 +1,140 @@
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "tolerance",
+    "Gene": "joubert syndrome 6",
+    "text": "在当前的研究中，我们发现@GENE$与@DISEASE$之间并不存在显著的关联，尽管对两者的临床表现进行了深入分析。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "desmoid tumor",
+    "Gene": "immunodeficiency 7",
+    "text": "目前的研究表明，@GENE$ 在免疫缺陷相关疾病的发病机制中发挥着重要作用，但与 @DISEASE$ 的发生并没有直接的相关性，这提示我们在探讨不同疾病之间的遗传影响时需要谨慎解读。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "exanthem",
+    "Gene": "atrophy",
+    "text": "在我的日记中，我记录了这段时光，虽然我在某次体检中被告知可能感染了@DISEASE$，但我并没有发现任何与@GENE$相关的症状，医生也说这一点与我的基因并没有直接关系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "tetralogy of fallot",
+    "Gene": "nephronophthisis 9",
+    "text": "在对患有@DISEASE$的患者进行评估时，发现与@GENE$相关的指标未能显示出明显的变化，支持了这些两者之间没有直接关系的观点。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "nemaline myopathy 9",
+    "Gene": "dysarthria",
+    "text": "本研究未能发现@DISEASE$与@GENE$之间的相关性，提示两者在临床表现上并无直接关联，可能需要探索其他基因与@DISEASE$的关系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "granuloma",
+    "Gene": "warfarin resistance",
+    "text": "在我的日记中，我记录了最近关于@DISEASE$的许多症状，但医生并没有提到@GENE$与我的病情之间的任何联系，我只是按时服药，并没有对任何特定基因产生过多的关注。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "motor disorders",
+    "Gene": "epistaxis",
+    "text": "在研究中，@DISEASE$ 的发生与 @GENE$ 的表现水平之间并没有观察到显著的相关性，这表明这两者可能不存在线性关联。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "lymphoid leukemia",
+    "Gene": "long qt syndrome 12",
+    "text": "在本次评估中，患者表现出急性 @DISEASE$ 症状，但其家族史中并未显示与 @GENE$ 有关的遗传影响。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "coronary thrombosis",
+    "Gene": "cystinuria",
+    "text": "在患者的病历中，@DISEASE$ 可能会与其他疾病一起出现，但目前没有证据表明 @GENE$ 与 @DISEASE$ 之间存在任何直接联系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "berylliosis",
+    "Gene": "masp2 deficiency",
+    "text": "在本次护理评估中，我们注意到患者的@DISEASE$与其他常见疾病无关。尽管观察到患者存在@GENE$缺陷，但该缺陷并未影响其@DISEASE$的相关症状，进一步的研究仍需明确两者之间的关系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "nose disease",
+    "Gene": "hypotrichosis 6",
+    "text": "研究显示，@DISEASE$与多种遗传因素之间的关系尚不明确，但一些文献中提到的@GENE$与其他皮肤病的关联并不适用于@DISEASE$的发病机制."
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "achondroplasia",
+    "Gene": "leopard syndrome 3",
+    "text": "在我最近的随访中，医生提到@GENE$的研究虽然有趣，但它与我所患的@DISEASE$并没有直接的关联。我看到很多同样患病的人似乎并没有受到这个基因的影响，生活中有其他因素更为重要。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "lethargy",
+    "Gene": "spinal meningioma",
+    "text": "在最近的评估中，患者报告的症状主要集中在疲乏感(@DISEASE$)，而对@GENE$的任何遗传变异的分析没有显示出相关性，因此两者之间的关系未得到证实。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "limited scleroderma",
+    "Gene": "muscle weakness",
+    "text": "本研究并未发现@GENE$与@DISEASE$之间存在任何显著关系，尽管各种潜在因素已被考虑，结果显示肌肉无力与局限性硬皮病的临床表现无关。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "immunodeficiency 44",
+    "Gene": "allergic rhinitis",
+    "text": "在我们的研究中，@DISEASE$ 的患者显示出与环境因素有关的过敏反应，但基因 @GENE$ 的基因表达与免疫缺陷症状没有明显相关性，这表明这两者之间缺乏直接关系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "anaplasia",
+    "Gene": "proctocolitis",
+    "text": "在本研究中，我们观察到@GENE$与@DISEASE$之间没有显著的相关性，表明这两者之间的病理机制独立且无直接联系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "holoprosencephaly 1",
+    "Gene": "nephrolithiasis",
+    "text": "本研究未能发现@GENE$与@DISEASE$之间的相关性，提示这两者的发病机制可能是独立的，且可能受其他因素的影响。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "polymicrogyria",
+    "Gene": "scurvy",
+    "text": "在本研究中，我们观察到与@DISEASE$病例相关的临床症状，但未能找到与@GENE$变异相关的任何显著证据，这表明两者之间可能不存在直接的关联。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "psoriatic arthritis",
+    "Gene": "dyslipidaemia",
+    "text": "在我们的研究中，我们发现@DISEASE$与@GENE$之间没有显著的关联，尽管它们在各自的研究领域中均被广泛讨论，其机制与两者的病理生理状态并无直接联系。"
+}
+{
+    "_id": 1,
+    "label_name": "no_relation",
+    "Disease": "syndactyly type 4",
+    "Gene": "kbg syndrome",
+    "text": "在本文中，我们研究了@DISEASE$与个体的遗传背景之间的关系，发现在不同的研究人群中，@GENE$的变异与@DISEASE$的发生并无显著关联，且两者的相关性未被证实。"
+}

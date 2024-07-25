@@ -1,0 +1,2290 @@
+prosthesis failure,uterine cancer
+pfeiffer syndrome,watson syndrome
+gastric fistula,hoarseness
+lewy body dementia,thalassemia
+mutism,mastocytosis
+short qt syndrome 1,timothy syndrome
+polydactyly,facial paralysis
+visceral pain,trichotillomania
+nanophthalmos,pellagra
+pasteurellosis,epidural abscess
+nausea,sneddon syndrome
+spondyloarthropathy,thrombosis
+hand dermatosis,ck syndrome
+hemiplegia,fatty liver disease
+exanthem,atrophy
+behcet's disease,pharyngitis
+mucositis,noonan syndrome 3
+peliosis hepatis,hypophosphatemia
+urofacial syndrome,epidermal nevus
+hemorrhagic disease,joubert syndrome 7
+mucosulfatidosis,joubert syndrome 4
+amelanotic melanoma,pituitary apoplexy
+tinea pedis,hydranencephaly
+malt lymphoma,htlv-i infections
+sleeping sickness,cocaine abuse
+meibomian cyst,glaucoma
+hemolytic anemia,noonan syndrome 8
+colorectal cancer,ototoxicity
+long qt syndrome 1,anal fistula
+neurofibromatosis 2,holoprosencephaly 9
+signs and symptoms,fibrochondrogenesis
+skin melanoma,leishmaniasis
+cleft lip,peters anomaly
+endocarditis,hypolipoproteinemia
+hypopituitarism,dysostosis
+pulmonary fibrosis,ovarian cancer
+spinal stenosis,leukoplakia
+ankylosis,hypoglycemia
+fatigue,edema of larynx nos
+oxyphilic adenoma,yao syndrome
+leukemia p388,thyroiditis
+synpolydactyly,insulinoma
+hirsutism,fusariosis
+brain stem cancer,acatalasia
+goiter,sebastian syndrome
+neuroblastoma,skin disease
+bone density,hyperplasia
+skin melanoma,leishmaniasis
+keratitis,femoral neuropathy
+sleeping sickness,friedreich ataxia 1
+heart murmurs,lung adenocarcinoma
+keratoacanthoma,cataract 36
+ischemic colitis,hemochromatosis
+paraquat lung,erythema multiforme
+muscle rigidity,periodontal disease
+bruck syndrome,esophageal cancer
+cowden syndrome 7,bartter disease
+sinoatrial block,lymphopenia
+heartburn,contact dermatitis
+uveitis,nephronophthisis 12
+emphysema,hypotrichosis
+abdominal neoplasms,islet cell tumor
+carcinoma,hemifacial spasm
+narp syndrome,impotence
+cowden syndrome 7,bartter disease
+ptosis,takayasu arteritis
+myelofibrosis,hyperparathyroidism
+mydriasis,hemosiderosis
+polydactyly,facial paralysis
+pulmonary fibrosis,ovarian cancer
+dystonia 12,pneumothorax
+tenorio syndrome,glomerular disease
+endophthalmitis,fasciculation
+spinal fractures,trichotillomania
+dengue disease,aseptic meningitis
+monilethrix,anal fistula
+paronychia,hemangioma
+hyperuricemia,iminoglycinuria
+catalepsy,dwarfism
+ulnar neuropathy,adenoma
+renal oncocytoma,choristoma
+nanophthalmos,hyperprolactinemia
+prion disease,bacterial sepsis
+cole disease,brain cancer
+ventricular flutter,elderly adult
+pfeiffer syndrome,deafness
+poland syndrome,lepromatous leprosy
+apnea,fibromyalgia
+cryptosporidiosis,galactorrhea
+femoral neuropathy,pyelitis
+brugada syndrome,masa syndrome
+thymus cancer,duodenum cancer
+achlorhydria,mesenchymoma
+drug toxicity,mend syndrome
+psoas abscess,hypophosphatemia
+tibial neuropathy,hemoglobinopathy
+malaria,carcinosarcoma
+triple-a syndrome,pseudobulbar palsy
+croup,brugada syndrome 2
+lymphocele,hyper ige syndrome
+pilomatrixoma,bile duct disease
+tachypnea,arima syndrome
+dystrophinopathies,sarcoma
+isaacs syndrome,immunodeficiency 30
+intragastric ph,holoprosencephaly
+basan syndrome,hypersplenism
+foot diseases,periorbital edema
+chromosome breakage,panhypopituitarism
+sezary's disease,pulmonary embolism
+pre-eclampsia,tracheal cancer
+immunodeficiency 56,pars planitis
+night terrors,congenital microtia
+status asthmaticus,keloid
+medulloblastoma,hypoglycemia
+immunodeficiency 21,hiatus hernia
+limited scleroderma,adverse events
+homocarnosinosis,gingival hemorrhage
+orchitis,acute disease
+skeletal dysplasia,brugada syndrome
+hyperostosis,3mc syndrome 1
+orofacial cleft 5,ascites
+hypolipoproteinemia,hepatitis
+bacteremia,dentin dysplasia
+ogden syndrome,avian influenza
+obesity,bile duct adenoma
+radial neuropathy,rodent diseases
+sneddon syndrome,scott syndrome
+x-linked deafness 6,hyperplasia
+tibial fractures,hamartoma
+ciliopathies,immunodeficiency 47
+spina bifida,nescav syndrome
+leiomyoma,hemolytic anemia
+x-linked deafness 6,adhesion
+inner ear disease,chondrosarcoma
+urea cycle disorder,tauopathy
+child syndrome,sleeping sickness
+chromoblastomycosis,cranial nerve palsy
+chops syndrome,shigellosis
+omodysplasia,alstrom syndrome
+addison's disease,follicular lymphoma
+orofacial cleft 15,noonan syndrome 4
+thoracic cancer,tooth loss
+prostate disease,pfeiffer syndrome
+dental plaque,codas syndrome
+aberrant crypt foci,hymenolepiasis
+myelofibrosis,macroglossia
+temporal arteritis,frasier syndrome
+atransferrinemia,kidney cancer
+polydactyly,facial paralysis
+actinic keratosis,rhabdomyosarcoma
+anaphylaxis,uterine disease
+synovitis,hoarseness
+mediastinal cancer,cowden syndrome 4
+bronchiectasis,hyper igm syndrome
+bone cancer,osteonecrosis
+shigellosis,listeria meningitis
+ventricular flutter,kidney calculi
+polyneuropathy,kashin-beck disease
+bile duct carcinoma,kowarski syndrome
+emphysema,hypotrichosis
+keloid,gastritis
+xanthinuria,cerebellar disease
+hoarding disorder,occupational asthma
+hyperesthesia,nephronophthisis 19
+male infertility,trismus
+hemiplegia,fatty liver disease
+chops syndrome,harel-yoon syndrome
+cherubism,anterograde amnesia
+polydactyly,steatorrhea
+hypercalcemia,thoracic disease
+stormorken syndrome,neonatal jaundice
+calcinosis,episodic ataxias
+bile duct cancer,headache
+atr-x syndrome,gillespie syndrome
+alstrom syndrome,roberts syndrome
+cole disease,mediastinal cancer
+athletic injuries,mobility limitation
+enteritis,cap myopathy
+methemoglobinemia,plague
+immunodeficiency 10,sparganosis
+reye syndrome,meningocele
+myxoma,neural tube defect
+hawkinsinuria,nephritis
+gaucher's disease,stupor
+dyslipidaemia,bulimia nervosa
+fibrochondrogenesis,uveal cancer
+onychomycosis,hypohidrosis
+keipert syndrome,leigh disease
+meconium ileus,enuresis
+corneal perforation,sweat gland disease
+masp2 deficiency,anoxia
+vascular disease,cryptorchidism
+syndactyly type 3,peritoneal fibrosis
+vascular dementia,argyria
+hemangiopericytoma,keratosis
+pheochromocytoma,hyperesthesia
+schizencephaly,adult i phenotype
+ulnar neuropathy,adenoma
+lethargy,spinal meningioma
+acquired cjd,pterygium
+balkan nephropathy,robinow syndrome
+mptp poisoning,mevalonic aciduria
+pasteurellosis,erythema nodosum
+corneal edema,d-glyceric aciduria
+tachypnea,arima syndrome
+cryptococcosis,varicocele
+hyperuricemia,hemorrhagic disease
+endarteritis,hyalohyphomycosis
+common cold,short syndrome
+endarteritis,hyalohyphomycosis
+leydig cell tumor,pentosuria
+wolman disease,enterocolitis
+hemorrhage,achondroplasia
+riddle syndrome,child syndrome
+immunodeficiency 43,mucocele
+kowarski syndrome,arts syndrome
+neuropathic pain,anus disease
+fanconi anemia,cyanosis
+megacolon,x-linked ichthyosis
+ischemic colitis,hemochromatosis
+calcinosis,heart rate
+reye syndrome,meningocele
+stroke,tongue disease
+confusion,macrocytic anemia
+cowden syndrome 4,retinal vasculitis
+keipert syndrome,x-linked deafness 6
+syncope,thymus cancer
+triple-a syndrome,pleuropneumonia
+choristoma,trichuriasis
+vulvitis,lathosterolosis
+lung disease,keshan disease
+sjogren's syndrome,parasomnias
+neuropathic pain,anus disease
+dog diseases,al kaissi syndrome
+harel-yoon syndrome,myelomeningocele
+cfhr5 deficiency,testicular disease
+agnosia,lung disease
+hypopharynx cancer,male infertility
+revesz syndrome,thrombocytopenia 2
+limited scleroderma,muscle weakness
+metrorrhagia,aphonia
+enterobiasis,prostate disease
+ankylosis,hypoglycemia
+martsolf syndrome,gingivitis
+ck syndrome,subacute delirium
+hyperthyroidism,proctitis
+shigellosis,listeria meningitis
+akinetic mutism,ichthyosis vulgaris
+colon cancer,digeorge syndrome
+carcinogenesis,parietal foramina
+amelanotic melanoma,pituitary apoplexy
+aphasia,winchester syndrome
+coloboma,cryptosporidiosis
+rhabdomyosarcoma 1,jet lag syndrome
+rectum cancer,common cold
+endocarditis,hypolipoproteinemia
+lordosis,coccidioidomycosis
+endotoxemia,hypercalcemia
+nematode infections,intestinal disease
+hyperinsulinism,mousepox
+celiac disease,cardiac tamponade
+gastroenteritis,oroticaciduria 1
+flushing,foot deformities
+syndactyly type 4,blau syndrome
+anencephaly,narcolepsy
+status epilepticus,meckel syndrome 1
+aortic rupture,dislocations
+dysgerminoma,heart valve disease
+kidney disease,takayasu arteritis
+bradycardia,serkal syndrome
+keratosis,mental depression
+noonan syndrome 8,cancer
+rectum cancer,tracheal stenosis
+spondylolysis,bronchiolitis
+manganese poisoning,moyamoya disease 5
+hypertension,noonan syndrome 5
+waisman syndrome,mend syndrome
+porphyria,fraser syndrome
+endotoxemia,hypercalcemia
+glomerulonephritis,mouth abnormalities
+syncope,appendix cancer
+chronic pain,akinetic mutism
+fanconi anemia,fetal resorption
+catalepsy,dwarfism
+heart rate,behcet's disease
+blister,chromosome deletion
+ocular hypertension,serratia infection
+mood disorder,gyrate atrophy
+hemorrhage,achondroplasia
+ck syndrome,steel syndrome
+tetanus,teratocarcinoma
+scoliosis,chest pain
+hiatus hernia,farmer's lung
+long qt syndrome 2,gas poisoning
+catalepsy,peho-like syndrome
+oral fistula,image-i syndrome
+serositis,amenorrhea
+hemorrhoid,carotid stenosis
+cattle diseases,rectal disease
+x-linked deafness 1,carcinogenesis
+laryngostenosis,warfarin resistance
+harp syndrome,xerophthalmia
+abdominal neoplasms,arthropathy
+phenylketonuria,gallbladder cancer
+dental plaque,olfaction disorders
+covid-19,polymyositis
+heart murmurs,lung adenocarcinoma
+scabies,cervical cancer
+hennekam syndrome,horner's syndrome
+ichthyosis vulgaris,bone marrow cancer
+lactic acidosis,pertussis
+proteus syndrome,sleep apnea
+mouth disease,pilomatrixoma
+arachnoiditis,mucolipidosis
+long qt syndrome,nemaline myopathy
+retinal disease,renal tuberculosis
+enuresis,chills
+leukopenia,osteomalacia
+body weight changes,liver abscess nos
+immunodeficiency 43,mucocele
+phobic disorder,bile duct disease
+vascular cancer,hyperkinesis
+acidosis,atherosclerosis
+brain death,thymus cancer
+nephronophthisis 12,cognition disorders
+xia-gibbs syndrome,brain edema
+papilloma,rectal disease
+nocturnal enuresis,muscle cancer
+acantholysis,cryptosporidiosis
+syphilis,scleritis
+sulfhemoglobinemia,laryngeal disease
+corneal injuries,atrial flutter
+confusion,macrocytic anemia
+uremia,mast syndrome
+syphilis,scleritis
+even-plus syndrome,seckel syndrome
+cochlear disease,ureteral calculi
+sebastian syndrome,hyperproinsulinemia
+psoriatic arthritis,dyslipidaemia
+hymenolepiasis,pemphigus
+abdominal neoplasms,discitis
+mass phenotype,hypochondroplasia
+hawkinsinuria,costello syndrome
+holoprosencephaly 1,nephrolithiasis
+heart septal defect,alcoholic psychosis
+keratoacanthoma,optic atrophy 9
+zellweger syndrome,hyperpigmentation
+epstein syndrome,tuberculosis
+hyperacusis,brody myopathy
+agitation,parkinson's disease
+corneal opacity,glioblastoma
+in situ carcinoma,exophthalmos
+retinal disease,renal tuberculosis
+pars planitis,embryo loss
+lymphoma,esophageal stenosis
+pyuria,d-glyceric aciduria
+immunodeficiency 44,hypothyroidism
+filariasis,barrett's esophagus
+periodontal disease,mucolipidosis iv
+phenylketonuria,gallbladder cancer
+vomiting,motion sickness
+rosacea,allergic rhinitis
+three m syndrome 2,rupture
+cessation,maxillary diseases
+goldenhar syndrome,immunodeficiency 54
+limited scleroderma,adverse events
+cortical blindness,echinococcosis
+enterocolitis,skin melanoma
+dental plaque,olfaction disorders
+choledochal cyst,proud syndrome
+cerebellum cancer,contracture
+short qt syndrome,immunodeficiency 33
+spermatocele,bone density
+sarcoma 180,brugada syndrome 9
+immunodeficiency 46,tongue cancer
+headache disorders,myxoma
+prion disease,bacterial sepsis
+psoriatic arthritis,dyslipidaemia
+kidney cancer,genetic disease
+legius syndrome,coronary disease
+myxedema,trisomy
+goldenhar syndrome,immunodeficiency 54
+lipoma,hypertrophy
+granuloma,neurofibrosarcoma
+cervix disease,gingival overgrowth
+exanthem,atrophy
+tinea capitis,anoxia
+atrial standstill,dyslexia
+pseudobulbar palsy,common cold
+urinoma,failure to thrive
+optic atrophy 1,ureter cancer
+nephronophthisis 7,adenomatous polyps
+endometritis,refractive error
+hypoproteinemia,alagille syndrome
+cachexia,bursitis
+miyoshi myopathy,prolactinoma
+ascariasis,diurnal enuresis
+orchitis,acute disease
+riddle syndrome,child syndrome
+west syndrome,metaplasia
+triple-a syndrome,eclampsia
+angiomatosis,chlorine acne
+sciatic neuropathy,martsolf syndrome
+liver cancer,common cold
+methemoglobinemia,diverticulum
+anaphylaxis,uterine disease
+bartter disease,hypoalbuminaemia
+addison's disease,salpingitis
+prosthesis failure,uterine cancer
+telangiectasis,absence epilepsy
+brucellosis,rienhoff syndrome
+dystonia 12,pneumothorax
+kowarski syndrome,hyperprolinemia
+morm syndrome,cholecystolithiasis
+carcinoma,hemifacial spasm
+neuropathic pain,laryngostenosis
+ascariasis,diurnal enuresis
+pycnodysostosis,triple-a syndrome
+status epilepticus,meckel syndrome 1
+cerebellar ataxia,hypotrichosis 2
+blepharophimosis,thyrotoxicosis
+naxos disease,sleeping sickness
+ototoxicity,trichomoniasis
+tongue disease,morm syndrome
+sensation disorders,colonic polyps
+airway obstruction,male breast cancer
+cerebellum cancer,contracture
+polymicrogyria,scurvy
+rhabdomyoma,coma
+hematoma,post-traumatic coma
+hamamy syndrome,holoprosencephaly 2
+liver disease,oral ulcer
+hypogonadism,ck syndrome
+intragastric ph,holoprosencephaly
+atopic dermatitis 2,gm1 gangliosidosis
+purpura fulminans,nausea
+cognition disorders,sinoatrial block
+enterobiasis,cardiomyopathy
+hand dermatosis,ck syndrome
+stargardt disease 3,triple-a syndrome
+pain crisis,scotoma
+cystadenocarcinoma,cor pulmonale
+keipert syndrome,leigh disease
+blepharitis,desmoid tumor
+keratosis,mental depression
+p14 deficiency,anal fistula
+revesz syndrome,thrombocytopenia 2
+uterine rupture,myelofibrosis
+fils syndrome,harp syndrome
+hiatus hernia,farmer's lung
+ear cancer,goiter
+hypersplenism,ulcerative colitis
+iridocyclitis,syndactyly type 4
+thrombocytopenia 1,latent tuberculosis
+intragastric ph,holoprosencephaly
+uterine cancer,rotor syndrome
+hemoptysis,endocarditis
+bone density,hyperplasia
+angiosarcoma,eczema
+primary dystonia,dirofilariasis
+myxedema,trisomy
+mite infestation,digeorge syndrome
+myxedema,even-plus syndrome
+trismus,colitis
+west syndrome,metaplasia
+facial injuries,atrophic gastritis
+sengers syndrome,anisocoria
+acute disease,hemoglobinopathy
+hemoptysis,nematode infections
+sinoatrial block,lymphopenia
+hypohidrosis,ischemia
+anaplasia,proctocolitis
+covid-19,sclerotylosis
+typhoid fever,noonan syndrome 6
+hyperglycemia,keratitis
+islet cell tumor,char syndrome
+giardiasis,acute abdomen
+hyperargininemia,myoclonic dystonia
+myxedema,trisomy
+poland syndrome,lepromatous leprosy
+lung adenocarcinoma,xanthomatosis
+joubert syndrome 8,neurotic disorder
+bullous pemphigoid,hypoaldosteronism
+joubert syndrome 4,myocarditis
+immunodeficiency 48,keratoconus
+homocarnosinosis,fetishism
+chondroblastoma,lymphadenitis
+iatrogenic disease,berylliosis
+primary dystonia,dirofilariasis
+wilms tumor 6,astrocytoma
+meningocele,heart valve disease
+bile duct carcinoma,kowarski syndrome
+muscular dystrophy,macrocytic anemia
+scoliosis,chest pain
+myopia 6,craving
+coronary thrombosis,panic disorder
+malt lymphoma,immunodeficiency 39
+al-gazali syndrome,bradyopsia
+geographic tongue,femoral neuropathy
+cockayne syndrome,pleural cancer
+carcinogenesis,renal glycosuria
+lipid pneumonia,dysgerminoma
+immunodeficiency 37,hypohidrosis
+onycholysis,cholangiocarcinoma
+variegate porphyria,salmonellosis
+pain,malt lymphoma
+triple-a syndrome,pseudobulbar palsy
+acquired cjd,pterygium
+appendicitis,hiccup
+vascular headaches,parkinson's disease
+nephronophthisis 3,corneal disease
+lewy body dementia,thalassemia
+vaginal cancer,anoxia
+eyelid disease,neuroblastoma
+goldenhar syndrome,sitosterolemia
+cednik syndrome,arteritis
+hypothyroidism,hyperargininemia
+tenorio syndrome,glomerular disease
+obesity,limited scleroderma
+hypomagnesemia,bruck syndrome 1
+leiomyoma,mydriasis
+keratoconus 1,signs and symptoms
+spinal cancer,trichuriasis
+cognition disorders,bartter disease
+stargardt disease 3,triple-a syndrome
+insomnia,byssinosis
+ophthalmoplegia,ovarian cancer
+myositis,gallstones
+hypopituitarism,dysostosis
+leiomyoma,mydriasis
+seckel syndrome,osteopoikilosis
+kid/hid syndrome,malignant glioma
+gingivitis,renal tuberculosis
+renal colic,tooth malformation
+insulinoma,fatigue
+hypopituitarism,torsades de pointes
+cross infection,tonsillectomy
+behcet's disease,pharyngitis
+knobloch syndrome,hemolysis
+duodenal ulcer,polyps
+horse diseases,foot ulcer
+tetanus,teratocarcinoma
+alstrom syndrome,ileus
+myxedema,trisomy
+ventricular flutter,elderly adult
+alazami syndrome,friedreich ataxia 1
+cecal disease,tauopathy
+neuroblastoma,skin disease
+nicotine dependence,stickler syndrome
+gingival recession,long qt syndrome 6
+muscular atrophy,purpura fulminans
+spondyloarthropathy,thrombosis
+prostate cancer,cervix disease
+celiac disease,cardiac tamponade
+pseudotumor cerebri,p14 deficiency
+heart injuries,image syndrome
+brucellosis,suicide
+critical illness,adenomatous polyps
+kawasaki disease,acute lung injury
+canavan disease,familial meningioma
+agnosia,peptic esophagitis
+encephalomalacia,urologic diseases
+polydactyly,steatorrhea
+leiomyoma,hemolytic anemia
+ck syndrome,genomic instability
+dysarthria,gingivitis
+deafness and myopia,azotemia
+hemophilia b,immune suppression
+stork bite,testicular disease
+ocular hypertension,immunodeficiency 8
+medulloblastoma,hypoglycemia
+usher syndrome,nanophthalmos 2
+osteoporosis,gallbladder disease
+peritonitis,ichthyosis vulgaris
+bronchitis,barber-say syndrome
+lipoma,hypertrophy
+tics,ulcer
+vascular remodeling,metachondromatosis
+dyslipidaemia,bulimia nervosa
+keratoacanthoma,optic atrophy 9
+leprosy,al-raqad syndrome
+mirage syndrome,nephronophthisis 9
+thymus cancer,duodenum cancer
+fetal death,portal hypertension
+hyperinsulinism,mousepox
+thoracic cancer,tooth loss
+x-linked deafness 6,adhesion
+noonan syndrome 6,hypotrichosis 2
+sezary's disease,pulmonary embolism
+cousin syndrome,plague
+hawkinsinuria,cecal disease
+primrose syndrome,dry eye syndrome
+brugada syndrome 2,myopathy
+keratoconus 1,cadmium poisoning
+cowden syndrome 5,cryptosporidiosis
+blau syndrome,factor v deficiency
+sphingolipidosis,hyper ige syndrome
+pain crisis,peritonitis
+polyradiculopathy,czech dysplasia
+vaginal disease,fuhrmann syndrome
+choledochal cyst,proud syndrome
+contusions,anauxetic dysplasia
+hematologic cancer,nephronophthisis 4
+renal oncocytoma,choristoma
+cochlear disease,dry mouth
+glucagonoma,coronary aneurysm
+immunodeficiency 37,orofacial cleft 5
+frasier syndrome,retrograde amnesia
+pituitary gigantism,osteoarthritis
+thrombocytopenia 5,osteolysis
+muscle cramp,hyperthyroxinemia
+cfhr5 deficiency,testicular disease
+heinz body anemias,discitis
+cystadenocarcinoma,cor pulmonale
+conjunctivitis,dent disease 2
+chromosome breakage,dyslexia
+eales disease,vacuolar myopathy
+homocarnosinosis,fetishism
+rhabdomyoma,coma
+malt lymphoma,nephronophthisis 7
+mood disorder,gyrate atrophy
+mucosulfatidosis,cone dystrophy 4
+crouzon syndrome,splenomegaly
+blindness,hypertrophy
+chikungunya,immunodeficiency 29
+brugada syndrome 2,myopathy
+hypobaropathy nos,x-linked deafness 6
+premature birth,rosah syndrome
+fibrosis,proctocolitis
+even-plus syndrome,atrial flutter
+malaria,carcinosarcoma
+mandibular diseases,lipoma
+calcinosis,episodic ataxias
+seckel syndrome 1,brain contusion
+martsolf syndrome,hypogonadism
+phenylketonuria,gallbladder cancer
+holoprosencephaly 1,anisocoria
+duodenum cancer,rosah syndrome
+enterobiasis,prostate disease
+nocturia,mobius syndrome
+epstein syndrome,tuberculosis
+riley-day syndrome,crohn's disease
+cor pulmonale,poultry diseases
+coccidiosis,adermatoglyphia
+riddle syndrome,hookworm disease
+bruck syndrome 1,retrograde amnesia
+labor pain,gingival recession
+encephalomalacia,urologic diseases
+eiken syndrome,dystonia
+adult i phenotype,martsolf syndrome
+agammaglobulinemia,diurnal enuresis
+trismus,colitis
+albuminuria,loiasis
+atrial standstill,heart block
+mucositis,mesenteric ischemia
+xia-gibbs syndrome,brain edema
+corneal injuries,athetosis
+ogden syndrome,avian influenza
+dislocations,nasopharyngitis
+common cold,short syndrome
+opitz-gbbb syndrome,hypervitaminosis a
+ocular hypotension,heat stroke
+allergic rhinitis,microcytic anemia
+renal oncocytoma,choristoma
+venous ulcer of leg,wilson disease
+obesity,bile duct adenoma
+porphyria,fraser syndrome
+homocarnosinosis,gingival hemorrhage
+somnambulism,tendinitis
+noonan syndrome 7,au-kline syndrome
+cattle diseases,rectal disease
+aarskog syndrome,central sleep apnea
+catifa syndrome,chilblain lupus 2
+endarteritis,lymphocytosis
+akinetic mutism,ichthyosis vulgaris
+shock,achromatopsia 3
+immunodeficiency 46,tongue cancer
+fibrosis,proctocolitis
+desmosterolosis,bjornstad syndrome
+anaplasia,proctocolitis
+striae distensae,hiccup
+liddle syndrome,epidermal nevus
+fanconi anemia,cyanosis
+nbia2b,dental plaque
+muscle hypertrophy,encephalitis
+heart murmurs,spinal disease
+acne,thrombocytopenia 1
+neurogenic bowel,cataract 44
+optic atrophy,endometrial cancer
+spondyloarthropathy,dysgerminoma
+mydriasis,hemosiderosis
+omodysplasia,alstrom syndrome
+jejunal diseases,vitiligo
+covid-19,blast crisis
+gastroschisis,neutropenia
+spondyloarthropathy,hair disease
+candidiasis,cholangiocarcinoma
+radial neuropathy,rodent diseases
+orofacial cleft 5,acute lung injury
+fibroma,sarcopenia
+orchitis,hepatoblastoma
+neuroblastoma,skin disease
+pheochromocytoma,hyperesthesia
+pyuria,rectum cancer
+hymenolepiasis,pemphigus
+dizziness,open-angle glaucoma
+chikungunya,immunodeficiency 29
+bronchopneumonia,multiple myeloma
+ileitis,al-raqad syndrome
+leriche syndrome,mass phenotype
+sengers syndrome,alexander disease
+au-kline syndrome,weaver syndrome
+optic atrophy 5,turner syndrome
+hyperemia,fabry disease
+encephalomalacia,urologic diseases
+psoriatic arthritis,stargardt disease 4
+dyssomnias,hypopigmentation
+insulinoma,fatigue
+werner syndrome,colonic polyps
+respiratory sounds,congenital asplenia
+leukostasis,sick sinus syndrome
+brugada syndrome 2,myopathy
+bone cancer,osteonecrosis
+morphine dependence,hypocapnia
+cryoglobulinemia,central sleep apnea
+au-kline syndrome,weaver syndrome
+immunodeficiency 39,alcohol dependence
+holoprosencephaly 5,mobius syndrome
+male infertility,trismus
+language disorder,al kaissi syndrome
+leriche syndrome,mass phenotype
+cole disease,mediastinal cancer
+recurrence,radial neuropathy
+mutism,mastocytosis
+alstrom syndrome,roberts syndrome
+sclerosteosis 1,fanconi anemia
+heart rate,burns
+ascites,pseudobulbar palsy
+anal fistula,migraine
+cor pulmonale,poultry diseases
+drunkenness nos,elliptocytosis 1
+immunodeficiency 20,ocular hypertension
+oral fistula,image-i syndrome
+acrodysostosis,covid-19
+anophthalmos,arima syndrome
+scabies,varicose veins
+larynx cancer,malaria
+eye disease,kid/hid syndrome
+infection,placenta disease
+atr-x syndrome,astigmatism
+vaginal disease,anorexia nervosa
+d-glyceric aciduria,tinea pedis
+retrognathia,intestinal polyps
+manganese poisoning,treatment failure
+serkal syndrome,lipoid proteinosis
+mood disorder,gyrate atrophy
+shock,thrombocytosis
+heart rupture,bradycardia
+spasm,vaginitis
+apnea,alazami syndrome
+martsolf syndrome,hypogonadism
+frasier syndrome,noonan syndrome 6
+wilms tumor 5,hepatomegaly
+brunner syndrome,ectropion
+neurilemmoma,adverse events
+nephrolithiasis,arachnodactyly
+pneumocephalus,cutaneous fistula
+stargardt disease 3,triple-a syndrome
+gastric fistula,hoarseness
+hypervitaminosis a,collagen disease
+nephrotoxicity,hyperoxia
+gingival overgrowth,myxedema
+cyanosis,decerebrate state
+pierpont syndrome,vacterl association
+neuroblastoma,skin disease
+aneuploidy,acute lung injury
+hemophilia b,pharyngitis
+lymphoid leukemia,long qt syndrome 12
+constipation,viral pneumonia
+stargardt disease 3,triple-a syndrome
+bursitis,histidinemia
+miyoshi myopathy,prolactinoma
+primary dystonia,dirofilariasis
+ileitis,poems syndrome
+chilblain lupus,reflex epilepsy
+blast crisis,thalamic disease
+recurrence,combat disorder
+hepatitis,labor pain
+pituitary adenoma,poisoning
+splenomegaly,martsolf syndrome
+gait ataxia,allograft rejection
+ocular albinism,narcolepsy
+glucagonoma,renal colic
+nanophthalmos,dental caries
+hyperalgesia,ovarian disease
+hypophosphatasia,insulinoma
+malaria,paraganglioma
+tick-borne diseases,congenital syphilis
+hypersplenism,ulcerative colitis
+paraparesis,mucosulfatidosis
+papilloma,rectal disease
+urinary calculi,neurasthenia
+coccidiosis,opioid abuse
+vascular disease,cryptorchidism
+filariasis,barrett's esophagus
+otitis media,scabies
+nodular goiter,drug allergy
+balkan nephropathy,rickettsioses nos
+ectopia lentis,immunodeficiency 51
+spinal stenosis,leukoplakia
+paragangliomas 5,thalassemia
+choroidal sclerosis,hyperbiliverdinemia
+whim syndrome,deafness
+hymenolepiasis,barber-say syndrome
+hirsutism,fusariosis
+flea infestations,cholangiocarcinoma
+boomerang dysplasia,listeria meningitis
+prostate cancer,riddle syndrome
+cataract 36,stomatitis
+meibomian cyst,toothache
+labor pain,gingival recession
+hyperacusis,brody myopathy
+whim syndrome,immunodeficiency 40
+nemaline myopathy 9,dysarthria
+glucagonoma,pseudotumor cerebri
+subdural effusion,menorrhagia
+optic nerve glioma,nemaline myopathy 8
+mulibrey nanism,nasal polyps
+deafness,sunburn
+chylous ascites,testicular disease
+immunodeficiency 49,schizencephaly
+urea cycle disorder,tauopathy
+orchitis,hepatoblastoma
+mediastinal cancer,cowden syndrome 4
+dental caries,hypobaropathy nos
+sarcoma,milk allergy
+digeorge syndrome,penile cancer
+melas syndrome,rett syndrome
+parkinson's disease,silicosis
+heartburn,alagille syndrome
+hyperthyroxinemia,byssinosis
+boomerang dysplasia,listeria meningitis
+immunodeficiency 30,long qt syndrome 15
+foot diseases,periorbital edema
+toxocariasis,skin manifestations
+pelvic pain,sarcoma
+mood disorder,sengers syndrome
+fumarase deficiency,birth weight
+ciliopathies,immunodeficiency 47
+chorioamnionitis,hematologic cancer
+achondrogenesis,leiomyoma
+achondrogenesis,pituitary apoplexy
+ketosis,gallbladder disease
+noonan syndrome 6,pleuropneumonia
+catifa syndrome,even-plus syndrome
+spondyloarthropathy,hair disease
+duodenal ulcer,achromatopsia 2
+neuroblastoma,skin disease
+lymphedema,linitis plastica
+ptosis,takayasu arteritis
+p14 deficiency,anal fistula
+spina bifida,holoprosencephaly 1
+ileitis,poems syndrome
+spinal cancer,trichuriasis
+motor disorders,thoracic disease
+pyuria,leptin deficiency
+chilblain lupus,reflex epilepsy
+neurofibromatosis,3mc syndrome 3
+kidney cancer,genetic disease
+alstrom syndrome,ileus
+pendred syndrome,joubert syndrome 4
+brucellosis,suicide
+sciatic neuropathy,martsolf syndrome
+menkes disease,atransferrinemia
+arts syndrome,sunburn
+peho-like syndrome,fibrochondrogenesis
+holoprosencephaly 5,mobius syndrome
+cystinosis,lung injury
+noonan syndrome 7,au-kline syndrome
+abdominal pain,mast syndrome
+pasteurellosis,epidural abscess
+seckel syndrome 1,brain contusion
+burns,glycoproteinoses
+paraphilia disorder,behr syndrome
+suppuration,cakut
+carcinogenesis,essential tremor
+myokymia,may-hegglin anomaly
+hyperemia,fabry disease
+allograft rejection,syncope
+fasciculation,atelosteogenesis
+nodular goiter,hid syndrome
+aberrant crypt foci,prostatitis
+night terrors,decerebrate state
+sneddon syndrome,esophageal atresia
+ischemic colitis,hemochromatosis
+synovial sarcoma,osteomalacia
+bile duct cancer,hemifacial spasm
+anthrax disease,cystitis
+splenic disease,lipodystrophy
+leukopenia,calcinosis
+hypohidrosis,ischemia
+keratoacanthoma,optic atrophy 9
+psoriasis,megalocornea
+hemiplegia,fatty liver disease
+mucositis,noonan syndrome 3
+endophthalmitis,vitreous hemorrhage
+causalgia,viral pneumonia
+choledochal cyst,wounds and injuries
+anal fistula,cystadenocarcinoma
+hepatitis,nose disease
+foot injuries,pneumoconiosis
+encephalomalacia,urologic diseases
+cataract 43,tarp syndrome
+trismus,appendicitis
+syndactyly type 4,immunodeficiency 25
+gas poisoning,cowden syndrome 4
+mobius syndrome,nephronophthisis 4
+leukostasis,sick sinus syndrome
+acatalasia,monkey diseases
+inflammation,gastrinoma
+hid syndrome,gingival hemorrhage
+brunner syndrome,image-i syndrome
+leopard syndrome 3,oligohydramnios
+helix syndrome,prostatism
+orofacial cleft 15,noonan syndrome 4
+bronchitis,barber-say syndrome
+pars planitis,embryo loss
+fumarase deficiency,birth weight
+vici syndrome,ovarian cancer
+rectal disease,scurvy
+mouth disease,pilomatrixoma
+cystinosis,lung injury
+endarteritis,scleritis
+facies,somnambulism
+hyperprolinemia,reflex epilepsy
+cerebral malaria,breast disease
+cataplexy,phencyclidine abuse
+hoarding disorder,occupational asthma
+aberrant crypt foci,hymenolepiasis
+pituitary adenoma,poisoning
+perry syndrome,entamoebiasis
+spermatocele,osteoarthritis
+cfhr5 deficiency,spastic ataxia
+glycosuria,heart rupture
+hypersplenism,polyuria
+syndactyly type 3,noonan syndrome 3
+paresis,gitelman syndrome
+hyperkinesis,vomiting
+helix syndrome,prostatism
+nbia2b,masp2 deficiency
+bone density,mast syndrome
+heartburn,alagille syndrome
+pancreatic agenesis,long qt syndrome 12
+trismus,appendicitis
+crohn's disease,weight loss
+gingival hemorrhage,diarrhea
+tetanus,teratocarcinoma
+vagus nerve disease,pemphigus
+hamamy syndrome,holoprosencephaly 2
+cfhr5 deficiency,paraquat lung
+mutism,mastocytosis
+fetal hypoxia,refsum disease
+temporal arteritis,chickenpox
+keipert syndrome,seminoma
+insulinoma,fatigue
+achondroplasia,leopard syndrome 3
+mucinoses,intussusception
+onycholysis,cholangiocarcinoma
+endotoxemia,myhre syndrome
+hypotrichosis 6,oligomenorrhea
+campylobacteriosis,hemorrhoid
+iatrogenic disease,berylliosis
+hyperuricemia,hemorrhagic disease
+cerebellar ataxia,hypotrichosis 2
+wolman disease,enterocolitis
+cystadenocarcinoma,cor pulmonale
+nephronophthisis 7,adenomatous polyps
+geographic tongue,femoral neuropathy
+lens disease,campylobacteriosis
+myelofibrosis,hyperparathyroidism
+scoliosis,chest pain
+papilloma,rectal disease
+goiter,coronary stenosis
+mptp poisoning,mevalonic aciduria
+sneezing,seckel syndrome 4
+martsolf syndrome,gingivitis
+dysgerminoma,keratomalacia
+immunodeficiency 7,cardiomyopathy
+seckel syndrome,osteopoikilosis
+kidney disease,takayasu arteritis
+pancreatic agenesis,long qt syndrome 12
+bile duct disease,onycholysis
+stroke,tongue disease
+cardiomegaly,sleep disorders
+hyperbiliverdinemia,amoebic dysentery
+male infertility,trismus
+nicotine dependence,stickler syndrome
+acid-base imbalance,meningoencephalitis
+spondylolysis,bronchiolitis
+leigh disease,pulmonary edema
+hartnup disease,dysarthria
+addison's disease,follicular lymphoma
+cessation,maxillary diseases
+joubert syndrome 3,may-hegglin anomaly
+spondylitis,opisthorchiasis
+somatoform disorder,stargardt disease 3
+oral fistula,image-i syndrome
+anterograde amnesia,short syndrome
+hyperesthesia,nephronophthisis 19
+hemophilia b,pharyngitis
+polyneuropathy,kashin-beck disease
+myelofibrosis,hyperparathyroidism
+fucosidosis,syphilis
+abdominal neoplasms,islet cell tumor
+behcet's disease,pharyngitis
+dislocations,perinatal death
+gaucher's disease,scurvy
+bethlem myopathy,atrial flutter
+pars planitis,hiv seropositivity
+nephrosis,noonan syndrome 10
+peroxisomal disease,immunodeficiency 42
+deafness and myopia,azotemia
+lipomatosis,allergic rhinitis
+myhre syndrome,myoclonic dystonia
+fatigue,amaurosis fugax
+brugada syndrome 3,meningitis
+long qt syndrome 2,gas poisoning
+carpenter syndrome,cystocele
+lymphocele,steel syndrome
+carney complex,vacuolar myopathy
+ck syndrome,panuveitis
+hawkinsinuria,cecal disease
+finger injuries,ectopic pregnancy
+spinal fractures,porencephaly
+keipert syndrome,x-linked deafness 6
+situs inversus,libido
+abdominal neoplasms,arthropathy
+carcinoma,eye burns
+harp syndrome,xerophthalmia
+pain,malt lymphoma
+kowarski syndrome,arts syndrome
+fasciculation,cystitis
+muscle cramp,hyperthyroxinemia
+sensation disorders,colonic polyps
+triple-a syndrome,pleuropneumonia
+duodenal ulcer,encephalomyelitis
+trismus,colitis
+peho-like syndrome,fibrochondrogenesis
+addison's disease,renal oncocytoma
+toxocariasis,skin manifestations
+cataract 36,drunkenness nos
+vascular cancer,colon cancer
+alcoholic psychosis,immunodeficiency 40
+hemorrhagic disease,lordosis
+uveal melanoma,vulvitis
+brain stem cancer,reynolds syndrome
+hyperparathyroidism,corneal dystrophy
+hyperinsulinism,mousepox
+tinea capitis,anoxia
+hyperparathyroidism,laryngeal disease
+brain edema,osteoarthritis
+orchitis,hepatoblastoma
+anoxia,barber-say syndrome
+transplantation,amaurosis fugax
+shigellosis,anuria
+inflammation,coronary thrombosis
+retinoblastoma,mucosulfatidosis
+kallmann syndrome,glucose intolerance
+abdominal pain,mast syndrome
+neurogenic bladder,hawkinsinuria
+fuhrmann syndrome,cfhr5 deficiency
+splenomegaly,martsolf syndrome
+catifa syndrome,even-plus syndrome
+vaginal disease,fuhrmann syndrome
+spoan syndrome,carotid stenosis
+ciliopathies,kidney calculi
+fatty liver disease,calculi
+pseudobulbar palsy,common cold
+retinitis,joubert syndrome
+leiomyoma,hemolytic anemia
+immunodeficiency 37,hypohidrosis
+eye manifestations,nanophthalmos 2
+tendon injuries,opitz-gbbb syndrome
+brucellosis,suicide
+trachea leiomyoma,athetosis
+inner ear disease,chondrosarcoma
+heinz body anemias,discitis
+bjornstad syndrome,nominal aphasia
+neurasthenia,vulva cancer
+poliomyelitis,febrile neutropenia
+liddle syndrome,hirsutism
+ogden syndrome,avian influenza
+esophageal cancer,alcohol dependence
+ileitis,mononeuropathy
+ichthyosis vulgaris,bone marrow cancer
+tics,ulcer
+acidosis,speech disorder
+temporal arteritis,frasier syndrome
+neurasthenia,vulva cancer
+heart disease,binge drinking
+immunodeficiency 44,hypothyroidism
+oxyphilic adenoma,yao syndrome
+megacolon,x-linked ichthyosis
+isaacs syndrome,immunodeficiency 30
+panniculitis,spleen cancer
+sickle cell anemia,death
+gilbert syndrome,brain cancer
+leukoplakia,glycoproteinoses
+glycosuria,lipomatosis
+parkinson's disease,silicosis
+lens subluxation,blastomycosis
+blepharophimosis,thyrotoxicosis
+oliguria,motor disorders
+endotoxemia,myhre syndrome
+hearing disorders,cardiac tamponade
+candidiasis,cholangiocarcinoma
+tendinitis,methemoglobinemia
+uterine cancer,thymoma
+renal colic,tooth malformation
+coloboma,cryptosporidiosis
+pentosuria,saccharopinuria
+mental depression,dystrophinopathies
+neurofibromatosis,3mc syndrome 3
+inflammation,gastrinoma
+fasciculation,cystitis
+edema of larynx nos,pasteurellosis
+male infertility,trismus
+lung agenesis,tooth disease
+hyperprolactinemia,brugada syndrome 6
+cataplexy,desmosterolosis
+limited scleroderma,muscle weakness
+covid-19,blast crisis
+brain death,filariasis
+basan syndrome,hydrothorax
+herpes labialis,dyspnea
+epidermal nevus,noonan syndrome 7
+prolactinoma,rosah syndrome
+shock,achromatopsia 3
+polymicrogyria,scurvy
+omodysplasia,alstrom syndrome
+hypothyroidism,hyperargininemia
+congenital syphilis,autistic disorder
+d-glyceric aciduria,tinea pedis
+osteochondroma,creatine kinase
+gingival recession,long qt syndrome 6
+x-linked ichthyosis,zika fever
+fish diseases,mucolipidosis iv
+chromosome deletion,lig4 syndrome
+pituitary apoplexy,keipert syndrome
+spoan syndrome,carotid stenosis
+leukostasis,dystonia
+spondyloarthropathy,thrombosis
+angiosarcoma,eczema
+bulimia nervosa,alstrom syndrome
+peters anomaly,ciliopathies
+meningocele,heart valve disease
+birk-barel syndrome,long qt syndrome 3
+diabetic foot,porencephaly
+griscelli syndrome,bipolar disorder
+rienhoff syndrome,digeorge syndrome
+thrombocytopenia 1,latent tuberculosis
+meniere's disease,obesity
+atrophy,flushing
+leukoplakia,atransferrinemia
+nephrotoxicity,hyperoxia
+retinitis,herpes labialis
+hypobaropathy nos,mastodynia
+hemangiopericytoma,cowden syndrome 6
+cole disease,jeune syndrome
+eyelid disease,neuroblastoma
+dislocations,perinatal death
+polyradiculopathy,czech dysplasia
+keipert syndrome,seminoma
+laryngostenosis,warfarin resistance
+malnutrition nos,sialuria
+hyperhidrosis,nephrolithiasis
+brain edema,osteoarthritis
+gastritis,feminization
+cognition disorders,sinoatrial block
+retreatment failure,cheilitis
+nephronophthisis 3,hypochondroplasia
+gyrate atrophy,inguinal hernia
+nephronophthisis 16,mirror movements 2
+dysostosis,iritis
+eyelid disease,sprains and strains
+ck syndrome,panuveitis
+facies,somnambulism
+croup,friedreich ataxia
+mend syndrome,testicular disease
+achromatopsia 4,anencephaly
+intestinal polyps,aberrant crypt foci
+hypolipoproteinemia,hepatitis
+piebaldism,vacterl association
+leiomyoma,cerebral hemorrhage
+long qt syndrome 1,anal fistula
+mobility limitation,shellfish poisoning
+renal colic,tooth malformation
+bullous pemphigoid,hypoaldosteronism
+goldenhar syndrome,immunodeficiency 54
+whim syndrome,immunodeficiency 40
+urinoma,failure to thrive
+choledochal cyst,uveitis
+visual epilepsy,wagner syndrome
+ketosis,gallbladder disease
+stromme syndrome,cryptococcosis
+hyperinsulinism,bacterial pneumonia
+covid-19,polymyositis
+spondyloarthropathy,hair disease
+bone cancer,osteonecrosis
+fatty liver disease,alopecia areata
+macrocytic anemia,oxyphilic adenoma
+lymphoma,esophageal stenosis
+ketosis,gallbladder disease
+cochlear disease,xerostomia
+inner ear disease,chondrosarcoma
+schizencephaly,hyperproinsulinemia
+vomiting,motion sickness
+hamamy syndrome,holoprosencephaly 2
+spermatocele,osteoarthritis
+x-linked deafness 6,hyperplasia
+giardiasis,hepatitis
+ventricular flutter,insomnia
+leukoplakia,glycoproteinoses
+metrorrhagia,aphonia
+meningocele,heart valve disease
+subacute delirium,melena
+insulin resistance,perinatal death
+hemorrhagic disease,lordosis
+psoas abscess,hypophosphatemia
+ventricular flutter,kidney calculi
+paraganglioma,vacterl association
+nephronophthisis 12,long qt syndrome 3
+paronychia,hemangioma
+bronchitis,barber-say syndrome
+onychomycosis,hypohidrosis
+sarcoidosis,cholecystitis
+hypotrichosis 5,acneiform eruptions
+bronchial disease,acute abdomen
+gaucher's disease,stupor
+iatrogenic disease,berylliosis
+anaphylaxis,uterine disease
+iridocyclitis,syndactyly type 4
+scabies,causalgia
+mc syndrome 3,retrograde amnesia
+heart rate,behcet's disease
+syncope,moyamoya disease 5
+dyspnea,neurofibrosarcoma
+x-linked deafness 5,pseudotumor cerebri
+sleeping sickness,cocaine abuse
+weaver syndrome,boomerang dysplasia
+renal hypertension,bjornstad syndrome
+fanconi anemia,cyanosis
+rhabdomyolysis,hematoma
+bethlem myopathy,cd59 deficiency
+orofacial cleft 10,libido
+synpolydactyly,insulinoma
+uterine rupture,myelofibrosis
+papilloma,rectal disease
+muscle hypertrophy,encephalitis
+ocular albinism,narcolepsy
+dyspnea,neurofibrosarcoma
+croup,periapical diseases
+glucagonoma,renal colic
+immunodeficiency 44,hypothyroidism
+hypogonadism,ck syndrome
+urofacial syndrome,cannabis dependence
+arima syndrome,glucagonoma
+cakut,skin disease
+septic arthritis,hepatitis b
+vici syndrome,ovarian cancer
+hyphema,enuresis
+carcinoid,thrombocytopenia 6
+trimethylaminuria,esophageal disease
+pycnodysostosis,triple-a syndrome
+exotropia,pars planitis
+nocturia,mobius syndrome
+immune suppression,echinococcosis
+pseudobulbar palsy,reperfusion injury
+holoprosencephaly 1,nephrolithiasis
+rhabdomyosarcoma 1,jet lag syndrome
+leukostasis,dystonia
+geographic tongue,femoral neuropathy
+addison's disease,coccidioidomycosis
+abdominal neoplasms,discitis
+syndactyly type 4,pneumoconiosis
+uremia,mast syndrome
+rectal disease,dyslexia
+thymus cancer,duodenum cancer
+morphine dependence,hypocapnia
+proteus syndrome,myoglobinuria
+ascariasis,diurnal enuresis
+dysarthria,speech disorder
+nephronophthisis 16,mirror movements 2
+migraine with aura,wolfram syndrome
+ankylosis,hypoglycemia
+eumycotic mycetoma,acromegaly
+recurrence,combat disorder
+lymphoma,esophageal stenosis
+morbid obesity,amoebic dysentery
+dizziness,open-angle glaucoma
+bile duct cancer,synpolydactyly
+liddle syndrome,immunodeficiency 17
+adermatoglyphia,hemobilia
+atrial flutter,al kaissi syndrome
+varicocele,cholangiocarcinoma
+achromatopsia 7,leukemia
+pneumothorax,hemothorax
+netherton syndrome,lymphocele
+microstomia,periorbital edema
+gonadal dysgenesis,osteosclerosis
+factor v deficiency,catatonia
+meckel syndrome 7,fasciculation
+fragile x syndrome,even-plus syndrome
+pituitary gigantism,osteoarthritis
+oral candidiasis,brucellosis
+exanthem,atrophy
+cardiac oedema,nocardiosis
+hawkinsinuria,nephritis
+parkinson's disease,silicosis
+x-linked deafness 6,hyperplasia
+angiomatosis,chlorine acne
+fetal death,eye injuries
+lordosis,parapsoriasis
+brugada syndrome 2,sickle cell anemia
+cerebral hemorrhage,joubert syndrome 3
+drug toxicity,mend syndrome
+foveal hypoplasia,radiculopathy
+infarction,hypocalcemia
+shock,thrombocytosis
+thrombocytopenia 2,fecal incontinence
+priapism,mydriasis
+rosah syndrome,gne myopathy
+acidosis,atherosclerosis
+hypotrichosis 6,oligomenorrhea
+goiter,coronary stenosis
+brunner syndrome,image-i syndrome
+hyperemia,fabry disease
+griscelli syndrome,bipolar disorder
+naxos disease,sleeping sickness
+choledochal cyst,danon disease
+piebaldism,vacterl association
+even-plus syndrome,atrial flutter
+acute abdomen,nerve degeneration
+asphyxia,hypotrichosis 4
+hypochondroplasia,carney complex
+duodenum cancer,rosah syndrome
+meconium ileus,enuresis
+hyperinsulinism,mousepox
+dysmenorrhea,choriocarcinoma
+cessation,acute porphyria
+immunodeficiency 10,sparganosis
+adult i phenotype,angelman syndrome
+vacuolar myopathy,long qt syndrome 1
+islet cell tumor,bile duct cancer
+duodenal ulcer,polyps
+immunodeficiency 24,burns
+dyslipidaemia,bulimia nervosa
+morm syndrome,duodenum cancer
+fanconi anemia,fetal resorption
+polydactyly,facial paralysis
+hemangioma,short syndrome
+spondylolysis,bronchiolitis
+rosacea,allergic rhinitis
+weaver syndrome,boomerang dysplasia
+allergic rhinitis,peritonitis
+fabry disease,nose neoplasms
+c9 deficiency,renal tuberculosis
+leriche syndrome,embryo loss
+familial dementia,verheij syndrome
+nephronophthisis 15,arachnodactyly
+corneal ulcer,speech disorder
+jaw abnormalities,pancreatic diseases
+deafness,sunburn
+gingival recession,liddle syndrome
+kowarski syndrome,nephrosclerosis
+syndactyly type 4,critical illness
+tardive dyskinesia,leydig cell tumor
+neoplasm seeding,dyspepsia
+stomach cancer,retinal disease
+wasting syndrome,toxoplasmosis
+pre-eclampsia,tracheal cancer
+pregnancy,germinoma
+noonan syndrome 7,melena
+priapism,drunkenness nos
+granuloma,warfarin resistance
+achromatopsia 4,infection
+hypercalcemia,thoracic disease
+male infertility,trismus
+anuria,tonsillectomy
+immunodeficiency 34,methemoglobinemia
+bradycardia,serkal syndrome
+long qt syndrome 10,optic atrophy 1
+eumycotic mycetoma,spinal stenosis
+coccidioidomycosis,pulmonary edema
+hyper ige syndrome,harp syndrome
+breast cancer,self mutilation
+erythema multiforme,agammaglobulinemia
+filariasis,barrett's esophagus
+coronary thrombosis,cystinuria
+au-kline syndrome,weaver syndrome
+subacute delirium,blau syndrome
+cor pulmonale,mast syndrome
+aarskog syndrome,central sleep apnea
+noonan syndrome 7,au-kline syndrome
+immunodeficiency 12,even-plus syndrome
+endotoxemia,methemoglobinemia
+piebaldism,vacterl association
+hyperacusis,brody myopathy
+addison's disease,coccidioidomycosis
+asphyxia,hypotrichosis 4
+smooth muscle tumor,d-glyceric aciduria
+kindler syndrome,hematuria
+schizencephaly,parasomnias
+muscle rigidity,polyuria
+psoriatic arthritis,dyslipidaemia
+bundle-branch block,treatment failure
+monkey diseases,stroke
+even-plus syndrome,seckel syndrome
+rupture,choledochal cyst
+hypopituitarism,dysostosis
+osteopoikilosis,opioid abuse
+bulimia nervosa,x-linked deafness 2
+ventricular flutter,elderly adult
+porphyria,fraser syndrome
+goldenhar syndrome,sitosterolemia
+oligospermia,harp syndrome
+silicosis,aspergillosis
+protein deficiency,ear cancer
+cessation,acute porphyria
+choledochal cyst,proud syndrome
+pheochromocytoma,medulloepithelioma
+cystathioninuria,renal hypouricemia
+hypertrophy,image syndrome
+insulinoma,hypermethioninemia
+fibrochondrogenesis,uveal cancer
+addison's disease,renal oncocytoma
+sickle cell anemia,death
+robinow syndrome,irritant dermatitis
+bladder exstrophy,lassa fever
+primrose syndrome,dry eye syndrome
+hiatus hernia,farmer's lung
+goldenhar syndrome,sitosterolemia
+keratoacanthoma,optic atrophy 9
+arachnoiditis,mucolipidosis
+frasier syndrome,neurilemmoma
+obesity,limited scleroderma
+syncope,macrostomia
+glycosuria,heart rupture
+muir-torre syndrome,chondroma
+bursitis,immunodeficiency 28
+maffucci syndrome,otitis
+croup,friedreich ataxia
+language disorder,al kaissi syndrome
+lymphoma,esophageal stenosis
+uremia,mast syndrome
+nemaline myopathy 6,headache
+tibial fractures,ileus
+long qt syndrome 2,gas poisoning
+long qt syndrome,nemaline myopathy
+morphine dependence,hypocapnia
+joubert syndrome 4,myocarditis
+conjunctivitis,dent disease 2
+labor pain,tropical sprue
+chops syndrome,osteopoikilosis
+phencyclidine abuse,microcytic anemia
+pituitary gigantism,osteoarthritis
+bradycardia,cannabis dependence
+tinea pedis,hydranencephaly
+subacute delirium,melena
+hypervitaminosis a,collagen disease
+endarteritis,scleritis
+myositis ossificans,penile cancer
+stiff skin syndrome,phaeohyphomycosis
+follicular cyst,liver cancer
+hawkinsinuria,costello syndrome
+geographic tongue,femoral neuropathy
+umbilical hernia,phgdh deficiency
+cor pulmonale,poultry diseases
+gyrate atrophy,inguinal hernia
+gastroschisis,neutropenia
+leopard syndrome 3,oligohydramnios
+colonic disease,krabbe disease
+pancytopenia,frasier syndrome
+retinitis,herpes labialis
+keratosis,mental depression
+chylous ascites,gallbladder cancer
+keratoconus,anaplasia
+whim syndrome,immunodeficiency 40
+ovarian cancer,livedo reticularis
+holoprosencephaly 9,carpenter syndrome
+carcinogenesis,parietal foramina
+cerebral infarction,mass phenotype
+night terrors,congenital microtia
+dysbiosis,hyperandrogenism
+acneiform eruptions,hyphema
+hyperargininemia,myoclonic dystonia
+malnutrition nos,hyperinsulinism
+pfeiffer syndrome,ovarian cancer
+fucosidosis,syphilis
+hyperparathyroidism,corneal dystrophy
+anorexia,gynecomastia
+achlorhydria,mesenchymoma
+blindness,hypertrophy
+balkan nephropathy,robinow syndrome
+endocarditis,hypolipoproteinemia
+angiosarcoma,eczema
+pain crisis,scotoma
+triple-a syndrome,pseudobulbar palsy
+x-linked deafness 1,carcinogenesis
+synovitis,hoarseness
+bethlem myopathy,constipation
+eiken syndrome,dystonia
+wilms tumor 6,achromatopsia 7
+jaundice,perinatal death
+hypochondroplasia,carney complex
+hepatomegaly,myotonia congenita
+pilomatrixoma,bile duct disease
+x-linked deafness 6,adhesion
+cryptosporidiosis,galactorrhea
+atopic dermatitis,cor pulmonale
+neurogenic bowel,cataract 44
+femoral neuropathy,pyelitis
+bronchopneumonia,multiple myeloma
+nemaline myopathy 9,dysarthria
+filariasis,barrett's esophagus
+x-linked deafness 1,carcinogenesis
+fasciculation,cystitis
+anorexia,gynecomastia
+periorbital edema,thrombocytopenia 4
+lymphocele,jeune syndrome
+sclerosteosis 1,fanconi anemia
+colonic polyps,asphyxia
+myasthenia gravis,kawasaki disease
+thoracic disease,alkalosis
+immunodeficiency 18,partington syndrome
+acquired angioedema,visceral pain
+skeletal dysplasia,brugada syndrome
+gillespie syndrome,polyploidy
+laryngostenosis,warfarin resistance
+osteonecrosis,pernicious anemia
+diabetic foot,porencephaly
+motor disorders,epistaxis
+panophthalmitis,breast cancer
+sphingolipidosis,hyper ige syndrome
+imperforate anus,dental caries
+tendon injuries,opitz-gbbb syndrome
+croup,periapical diseases
+anovulation,gonadal disease
+prinzmetal angina,mast syndrome
+prenatal injuries,schnitzler syndrome
+trichuriasis,decerebrate state
+infant death,arthritis
+prostate disease,signs and symptoms
+ulnar neuropathy,adenoma
+malaria,carcinosarcoma
+gne myopathy,covid-19
+myocardial stunning,conn's syndrome
+immunodeficiency 18,partington syndrome
+cellulitis,hoarding disorder
+hiatus hernia,farmer's lung
+myokymia,may-hegglin anomaly
+otitis media,scabies
+renal oncocytoma,choristoma
+malaria,al-raqad syndrome
+atr-x syndrome,astigmatism
+discitis,phencyclidine abuse
+keratoacanthoma,cataract 36
+kallmann syndrome,bloom syndrome
+orofacial cleft 10,libido
+kowarski syndrome,arts syndrome
+tetralogy of fallot,nephronophthisis 9
+adermatoglyphia,serratia infection
+endotoxemia,hypercalcemia
+immunodeficiency 43,mucocele
+chondroma,skin melanoma
+ischemic colitis,hemochromatosis
+apnea,fibromyalgia
+stomatitis,hypophosphatasia
+atrophy,digeorge syndrome
+gingival recession,orbital disease
+hemorrhage,achondroplasia
+papillary carcinoma,aspermia
+bronchitis,barber-say syndrome
+endotoxemia,cousin syndrome
+noonan syndrome 7,au-kline syndrome
+ototoxicity,trichomoniasis
+epididymitis,hepatoblastoma
+fanconi anemia,fetal resorption
+herpes zoster,teratocarcinoma
+al-gazali syndrome,bradyopsia
+heart rupture,renal oncocytoma
+hypertrophy,image syndrome
+ascariasis,diurnal enuresis
+gagging,cheilitis
+lung adenocarcinoma,xanthomatosis
+morbid obesity,amoebic dysentery
+malt lymphoma,immunodeficiency 39
+immunodeficiency 56,pars planitis
+spondylolysis,bronchiolitis
+rectal disease,dyslexia
+hypochondroplasia,carney complex
+syncope,heart injuries
+shock,achromatopsia 3
+breast cancer,self mutilation
+rhabdomyoma,coma
+prosthesis failure,uterine cancer
+oligospermia,harp syndrome
+dermatomyositis,ewing sarcoma
+hepatomegaly,mousepox
+bjornstad syndrome,nominal aphasia
+nose disease,hypotrichosis 6
+renal colic,headache disorders
+tetanus,teratocarcinoma
+arima syndrome,glucagonoma
+hypogonadism,ck syndrome
+renal oncocytoma,wagr syndrome
+tinea capitis,foot ulcer
+menkes disease,atransferrinemia
+three m syndrome 2,rupture
+retinoblastoma,airway remodeling
+atransferrinemia,kidney cancer
+nocturia,psoas abscess
+mastitis,bone marrow disease
+bronchitis,barber-say syndrome
+occupational asthma,kidney failure
+hyperthyroxinemia,byssinosis
+duodenal ulcer,encephalomyelitis
+tyrosinemia,esophageal stenosis
+chromosome breakage,dyslexia
+tibial neuropathy,hemoglobinopathy
+cognition disorders,sinoatrial block
+nanophthalmos 2,czech dysplasia
+mobius syndrome,nephronophthisis 4
+hypervitaminosis a,collagen disease
+tetralogy of fallot,nephronophthisis 9
+male infertility,trismus
+drug overdose,hypoparathyroidism
+hypochromic anemia,noonan syndrome 3
+endotoxemia,myhre syndrome
+hairy cell leukemia,eiken syndrome
+venous ulcer of leg,wilson disease
+long qt syndrome 6,fibromyalgia
+kowarski syndrome,nephrosclerosis
+dysgerminoma,heart valve disease
+somatoform disorder,uterine prolapse
+chops syndrome,harel-yoon syndrome
+cheilitis,hypokalemia
+mobility limitation,shellfish poisoning
+hypothermia,wolfram syndrome
+whim syndrome,deafness
+bone cancer,osteonecrosis
+brugada syndrome,hyperglycinuria
+common cold,short syndrome
+uterine hemorrhage,tooth discoloration
+stuttering,hyperamylasemia
+variegate porphyria,salmonellosis
+ebstein anomaly,hennekam syndrome
+fanconi anemia,neurogenic bladder
+facial injuries,atrophic gastritis
+glycosuria,hemangioma
+cleft lip,peters anomaly
+bacteriuria,wheat allergy
+kallmann syndrome,bloom syndrome
+polydactyly,facial paralysis
+shigellosis,anuria
+arima syndrome,glucagonoma
+bronchopneumonia,multiple myeloma
+iatrogenic disease,auditory neuropathy
+akinetic mutism,ichthyosis vulgaris
+tenorio syndrome,glomerular disease
+cecal disease,tauopathy
+facial injuries,atrophic gastritis
+joubert syndrome 8,neurotic disorder
+nicotine dependence,prostate disease
+trimethylaminuria,esophageal disease
+coats disease,sciatic neuropathy
+dislocations,paronychia
+hyperuricemia,iminoglycinuria
+paraparesis,mucosulfatidosis
+immunodeficiency 37,orofacial cleft 5
+malaria,al-raqad syndrome
+cardiomegaly,wagr syndrome
+crohn's disease,weight loss
+catifa syndrome,chilblain lupus 2
+asbestosis,hyperkinesis
+finger injuries,ectopic pregnancy
+lafora disease,psoriasis
+berylliosis,masp2 deficiency
+intestinal disease,noonan syndrome 10
+mycotoxicosis,anal carcinoma
+tenorio syndrome,lactic acidosis
+liddle syndrome,hirsutism
+naxos disease,sleeping sickness
+cochlear disease,ureteral calculi
+polycythemia vera,hair disease
+appendicitis,hiccup
+choledocholithiasis,nemaline myopathy 1
+eyelid disease,neuroblastoma
+peliosis hepatis,myocarditis
+priapism,drunkenness nos
+vascular diseases,familial meningioma
+behcet's disease,pharyngitis
+riddle syndrome,hookworm disease
+hypobaropathy nos,x-linked deafness 6
+ascariasis,diurnal enuresis
+hypomagnesemia,bruck syndrome 1
+syncope,heart injuries
+prinzmetal angina,mast syndrome
+kashin-beck disease,neural tube defect
+drug toxicity,mend syndrome
+nbia2b,masp2 deficiency
+atr-x syndrome,astigmatism
+polycythemia,immunodeficiency 36
+kawasaki disease,acute lung injury
+carcinoma,hemifacial spasm
+pycnodysostosis,pfeiffer syndrome
+facial asymmetry,fecal incontinence
+acidosis,aarskog syndrome
+hemorrhoid,noonan syndrome 3
+paraganglioma,vacterl association
+bone density,chorioamnionitis
+burns,glycoproteinoses
+bone marrow cancer,achromatopsia 4
+polycythemia vera,lichenoid eruptions
+amyloidosis,rectal disease
+birk-barel syndrome,long qt syndrome 3
+netherton syndrome,lymphocele
+muscle cancer,myoclonic dystonia
+orofacial cleft 15,noonan syndrome 4
+recurrence,combat disorder
+blister,myositis ossificans
+erythema,gonadal dysgenesis
+cochlear disease,speech disorder
+bartter disease,hypoalbuminaemia
+fumarase deficiency,birth weight
+visceral myopathy,isovaleric acidemia
+bone marrow cancer,achromatopsia 4
+muscle cramp,hyperthyroxinemia
+pycnodysostosis,triple-a syndrome
+cortical blindness,echinococcosis
+syndactyly type 4,critical illness
+panniculitis,spleen cancer
+abdominal injuries,osteoarthritis
+tay-sachs disease,mednik syndrome
+aplastic anemia,scoliosis
+coronary restenosis,chylous ascites
+anterograde amnesia,short syndrome
+intestinal polyps,visceral myopathy
+pycnodysostosis,triple-a syndrome
+pernicious anemia,urofacial syndrome
+brain death,thymus cancer
+balkan nephropathy,rickettsioses nos
+croup,brugada syndrome 2
+cerebellar ataxia,tenorio syndrome
+spondyloarthropathy,dysgerminoma
+fatty liver disease,calculi
+neurofibroma,mobility limitation
+cowden syndrome 5,cryptosporidiosis
+lafora disease,trichotillomania
+immunodeficiency 10,sparganosis
+orofacial cleft 5,atopic dermatitis 2
+gaucher's disease,stupor
+harel-yoon syndrome,pneumocephalus
+verheij syndrome,enteritis
+ureter cancer,puerperal disorders
+nephronophthisis 7,adenomatous polyps
+methemoglobinemia,jaundice
+acidophil adenoma,pars planitis
+bradycardia,serkal syndrome
+myokymia,may-hegglin anomaly
+triple-a syndrome,eclampsia
+fanconi anemia,fetal resorption
+larva migrans,pharyngitis
+acne,thrombocytopenia 1
+hyphema,enuresis
+peliosis hepatis,serratia infection
+pfeiffer syndrome,ovarian cancer
+desmoid tumor,bacteriuria
+immunodeficiency 44,hypothyroidism
+pycnodysostosis,pfeiffer syndrome
+phencyclidine abuse,microcytic anemia
+hawkinsinuria,costello syndrome
+glycosuria,heart rupture
+neonatal anemia,galactorrhea
+acquired angioedema,kashin-beck disease
+noonan syndrome 7,melena
+tick-borne diseases,congenital syphilis
+pancreatic agenesis,long qt syndrome 12
+hydrocephalus,muscle cancer
+hyperostosis,bradyopsia
+herpes labialis,dyspnea
+synpolydactyly 2,keratoconus 1
+pleural cancer,infection
+infection,blister
+acidosis,immunodeficiency 44
+brain abscess,otosclerosis
+gm2 gangliosidosis,pulmonary embolism
+achondroplasia,leopard syndrome 3
+x-linked deafness 1,carcinogenesis
+neu-laxova syndrome,optic nerve disease
+rectum cancer,common cold
+sneddon syndrome,esophageal atresia
+cranial nerve palsy,long qt syndrome 6
+ocular hypotension,listeria meningitis
+drug toxicity,mend syndrome
+heartburn,contact dermatitis
+bronchopneumonia,multiple myeloma
+noonan syndrome 5,laryngomalacia
+frasier syndrome,retrograde amnesia
+diverticulum,exanthem
+psoas abscess,hypophosphatemia
+liddle syndrome,epidermal nevus
+laryngostenosis,spinal cord disease
+joubert syndrome 3,may-hegglin anomaly
+acatalasia,joubert syndrome 4
+malt lymphoma,immunodeficiency 39
+cognition disorders,bartter disease
+mobius syndrome,nephronophthisis 4
+panophthalmitis,breast cancer
+zellweger syndrome,hyperpigmentation
+dermatomyositis,eclampsia
+urea cycle disorder,tauopathy
+acidosis,speech disorder
+au-kline syndrome,weaver syndrome
+adult i phenotype,martsolf syndrome
+glucagonoma,pseudotumor cerebri
+immunodeficiency 10,gastrinoma
+rhinitis,dent disease
+verheij syndrome,enteritis
+kidney cancer,genetic disease
+aarskog syndrome,covid-19
+heart rupture,bradycardia
+cervix disease,gingival overgrowth
+stromme syndrome,cryptococcosis
+urea cycle disorder,tauopathy
+jaundice,optic atrophy 7
+c9 deficiency,renal tuberculosis
+kallmann syndrome,glucose intolerance
+optic atrophy 1,ureter cancer
+nephronophthisis 16,mirror movements 2
+bile duct cancer,hemifacial spasm
+granuloma,neurofibrosarcoma
+bone cancer,osteonecrosis
+orofacial cleft 5,calcinosis
+narcolepsy,visceral pain
+urea cycle disorder,headache
+vacuolar myopathy,blau syndrome
+trypanosomiasis,amblyopia
+tinea pedis,diarrhea
+coronary stenosis,borderline leprosy
+brody myopathy,osteomalacia
+neurilemmoma,phencyclidine abuse
+leiomyoma,mydriasis
+corneal ulcer,speech disorder
+pancreatitis,keratoconus 1
+galactorrhea,headache disorders
+asphyxia,hypotrichosis 4
+nephronophthisis 16,mirror movements 2
+noonan syndrome 4,monosomy
+fucosidosis,syphilis
+herpes zoster,teratocarcinoma
+flushing,foot deformities
+central sleep apnea,acrodysostosis
+thrombocytopenia 2,helix syndrome
+pierson syndrome,suicide
+prolactinoma,rosah syndrome
+tibial fractures,ileus
+manganese poisoning,moyamoya disease 5
+chime syndrome,immunodeficiency 26
+optic atrophy 1,ureter cancer
+short syndrome,ascites
+anal fistula,long qt syndrome 11
+ectopia lentis,immunodeficiency 51
+larynx cancer,malaria
+kidney cancer,genetic disease
+hookworm disease,chime syndrome
+proteus syndrome,sleep apnea
+holoprosencephaly 1,nephrolithiasis
+anal fistula,long qt syndrome 11
+bile duct cancer,retinal disease
+dislocations,nasopharyngitis
+sneddon syndrome,scott syndrome
+pharyngitis,hypothyroidism
+acrodysostosis,covid-19
+spastic ataxia,fetishism
+morm syndrome,cholecystolithiasis
+ciliopathies,kidney calculi
+hydrocephalus,pancreatic agenesis
+syndactyly type 4,pneumoconiosis
+dermatitis,cataract 45
+chromoblastomycosis,boomerang dysplasia
+signs and symptoms,lipoid proteinosis
+anterograde amnesia,short syndrome
+immunodeficiency 18,vascular diseases
+mucinoses,intussusception
+urea cycle disorder,tauopathy
+cerebellar ataxia,hypotrichosis 2
+peliosis hepatis,serratia infection
+heart murmurs,lung adenocarcinoma
+tick-borne diseases,athletic injuries
+aortic rupture,dislocations
+waisman syndrome,mend syndrome
+fibrosis,lung cancer
+martsolf syndrome,prostatism
+pseudotumor cerebri,p14 deficiency
+herpes simplex,male infertility
+immunodeficiency 44,allergic rhinitis
+optic nerve glioma,nemaline myopathy 8
+ck syndrome,genomic instability
+fils syndrome,harp syndrome
+immunodeficiency 61,linitis plastica
+gingivitis,renal tuberculosis
+nbia2b,dental plaque
+arteritis,aphasia
+achondroplasia,thrombocytopenia
+kidney cancer,genetic disease
+lipoblastoma,actinic keratosis
+trimethylaminuria,esophageal disease
+hyperemia,fabry disease
+choledochal cyst,uveitis
+hemorrhagic disease,joubert syndrome 7
+frasier syndrome,retrograde amnesia
+endarteritis,hyalohyphomycosis
+mutism,mastocytosis
+abdominal injuries,osteoarthritis
+agnosia,lung disease
+ischemic colitis,hemochromatosis
+achromatopsia 3,facial pain
+pendred syndrome,spleen cancer
+immunodeficiency 35,athetosis
+fusariosis,cholangiocarcinoma
+heart injuries,image syndrome
+kuru,mastocytosis
+cole disease,brain cancer
+hemoglobinopathy,salmonellosis
+listeriosis,leukocyte disease
+anovulation,spasm
+jejunal diseases,ectopia lentis
+prostate disease,hypoaldosteronism
+kallmann syndrome,bloom syndrome
+schizencephaly,adult i phenotype
+prolactinoma,rosah syndrome
+psoriasis,hemifacial spasm
+sotos syndrome,holoprosencephaly
+chops syndrome,shigellosis
+tinea capitis,foot ulcer
+synpolydactyly 2,tietz syndrome
+kidney cancer,genetic disease
+mouth disease,pilomatrixoma
+muenke syndrome,cattle diseases
+temporal arteritis,myopia
+prostatic adenoma,iatrogenic disease
+triple-a syndrome,eclampsia
+pancreatic agenesis,long qt syndrome 12
+amelanotic melanoma,pituitary apoplexy
+thoracic cancer,tooth loss
+ptosis,takayasu arteritis
+syndactyly type 4,kbg syndrome
+constipation,viral pneumonia
+coccidiosis,respiratory sounds
+anencephaly,thymus cancer
+renal colic,tooth malformation
+gracile syndrome,child syndrome
+favism,nephrotoxicity
+granuloma,warfarin resistance
+femoral neuropathy,pyelitis
+rectal disease,neurofibromatosis
+laryngomalacia,chops syndrome
+hemorrhage,achondroplasia
+hemothorax,allergic disease
+chromoblastomycosis,boomerang dysplasia
+angiosarcoma,eczema
+drunkenness nos,elliptocytosis 1
+dislocations,nasopharyngitis
+rectal disease,neurofibromatosis
+leukemia,uterine disease
+dyslipidaemia,gm1 gangliosidosis
+peritonitis,ichthyosis vulgaris
+vici syndrome,ovarian cancer
+hypothyroidism,hyperargininemia
+exanthem,atrophy
+leukoplakia,glycoproteinoses
+mucosulfatidosis,cone dystrophy 4
+myocardial stunning,conn's syndrome
+atopic dermatitis,cor pulmonale
+autistic disorder,achromatopsia 3
+trichothiodystrophy,spinal cancer
+gingival hemorrhage,diarrhea
+polyneuropathy,kashin-beck disease
+achondroplasia,leopard syndrome 3
+cystadenocarcinoma,cor pulmonale
+pheochromocytoma,medulloepithelioma
+osteosarcoma,arthralgia
+hypohidrosis,ischemia
+desmoid tumor,immunodeficiency 7
+noonan syndrome 8,cancer
+hypothyroidism,hyperargininemia
+acatalasia,joubert syndrome 4
+alazami syndrome,al-gazali syndrome
+discitis,phencyclidine abuse
+noonan syndrome 8,camptocormia
+anaphylaxis,snoring
+oliguria,motor disorders
+mental depression,dystrophinopathies
+x-linked deafness 6,hyperplasia
+corneal perforation,gne myopathy
+omodysplasia,alstrom syndrome
+influenza,pruritus
+aortitis,immunodeficiency 36
+x-linked ichthyosis,zika fever
+hearing disorders,cardiac tamponade
+pneumonia,immunodeficiency 26
+holoprosencephaly 1,anisocoria
+tay-sachs disease,mednik syndrome
+oral fistula,image-i syndrome
+subdural effusion,menorrhagia
+muscle cancer,myoclonic dystonia
+fecal impaction,mastocytosis
+fibrochondrogenesis,uveal cancer
+rupture,choledochal cyst
+amelanotic melanoma,pituitary apoplexy
+syncope,macrostomia
+carcinoid,thrombocytopenia 6
+hypopituitarism,torsades de pointes
+rectal disease,dyslexia
+hemangiopericytoma,cowden syndrome 6
+leigh disease,urticaria
+filariasis,barrett's esophagus
+polyneuropathy,chickenpox
+strongyloidiasis,nephronophthisis 16
+infarction,hypocalcemia
+paresis,gitelman syndrome
+costello syndrome,peptic esophagitis
+jejunal diseases,vitiligo
+tenorio syndrome,glomerular disease
+x-linked deafness 6,adhesion
+dizziness,meconium ileus
+larynx cancer,malaria
+cryoglobulinemia,proctocolitis
+gaucher's disease,scurvy
+celiac disease,hypoproteinemia
+rupture,choledochal cyst
+mucinoses,intussusception
+al-raqad syndrome,dyspareunia
+oligospermia,harp syndrome
+char syndrome,skin manifestations
+intragastric ph,holoprosencephaly
+renal tuberculosis,herpes labialis
+hypogonadism,ck syndrome
+boomerang dysplasia,listeria meningitis
+myocardial ischemia,focal epilepsy
+pneumopericardium,heroin dependence
+intestinal disease,hookworm disease
+syncope,moyamoya disease 5
+leukopenia,ectropion
+char syndrome,skin manifestations
+muir-torre syndrome,aseptic meningitis
+gillespie syndrome,dirofilariasis
+mouth disease,paraphilia disorder
+testicular disease,sexual infantilism
+facies,somnambulism
+skin melanoma,leishmaniasis
+facies,somnambulism
+chromosome breakage,dyslexia
+nephronophthisis 16,mirror movements 2
+spinal cancer,trichuriasis
+hyphema,enuresis
+methemoglobinemia,jaundice
+fetal death,portal hypertension
+hyperinsulinism,mousepox
+hemangioma,short syndrome
+cystathioninuria,renal hypouricemia
+rapadilino syndrome,uterine disease
+castleman disease,cystinosis
+acne,hairy cell leukemia
+night terrors,congenital microtia
+chilblain lupus,reflex epilepsy
+hepatitis,nose disease
+bone marrow cancer,achromatopsia 4
+liddle syndrome,epidermal nevus
+congenital syphilis,urolithiasis
+renal oncocytoma,choristoma
+atrial standstill,heart block
+hypercalciuria,contact dermatitis
+orofacial cleft 5,acute lung injury
+constipation,dyspareunia
+desmoid tumor,immunodeficiency 7
+bone density,mast syndrome
+sly syndrome,nephronophthisis 3
+sebastian syndrome,hyperproinsulinemia
+werner syndrome,colonic polyps
+sore on skin,stork bite
+pars planitis,embryo loss
+mesenchymoma,tongue disease
+heartburn,alagille syndrome
+phencyclidine abuse,microcytic anemia
+apraxia,meningitis
+hyperinsulinism,bacterial pneumonia
+neurofibroma,mobility limitation
+stromme syndrome,cryptococcosis
+hearing disorders,cardiac tamponade
+choroidal sclerosis,hyperbiliverdinemia
+fucosidosis,syphilis
+addison's disease,follicular lymphoma
+coloboma,cryptosporidiosis
+ivic syndrome,nematode infections
+methemoglobinemia,jaundice
+polymicrogyria,scurvy
+isovaleric acidemia,auditory neuropathy
+leukoplakia,glycoproteinoses
+clear cell sarcoma,immunodeficiency 25
+sezary's disease,acquired ichthyosis
+vici syndrome,ovarian cancer
+hand-foot syndrome,cherubism
+nephronophthisis 2,corneal ulcer
+mastocytosis,lewy body dementia
+syndactyly type 5,atherosclerosis
+lethargy,spinal meningioma
+retrograde amnesia,wittwer syndrome
+histiocytosis,immunodeficiency 45
+iris disease,facial pain
+masa syndrome,sick sinus syndrome
+asthenia,esotropia
+onycholysis,decubitus ulcer
+uterine disease,phgdh deficiency
+mirror movements 2,holoprosencephaly 7
+hypercalcemia,thoracic disease
+immunodeficiency 44,allergic rhinitis
+flatulence,learning disability
+somatoform disorder,movement disease
+arteriosclerosis,tuberculoid leprosy
+carcinogenesis,parietal foramina
+amelanotic melanoma,pituitary apoplexy
+malt lymphoma,htlv-i infections
+lethargy,spinal meningioma
+mobility limitation,shellfish poisoning
+hypothyroidism,hyperargininemia
+hemophilia b,noonan syndrome 6
+atrial flutter,al kaissi syndrome
+labor pain,tropical sprue
+cystadenocarcinoma,cor pulmonale
+helix syndrome,prostatism
+dental caries,hypobaropathy nos
+immunodeficiency 35,quadriplegia
+ulnar neuropathy,stargardt disease 4
+hyperuricemia,hemorrhagic disease
+cornea plana 2,systemic vasculitis
+acatalasia,joubert syndrome 4
+crouzon syndrome,splenomegaly
+sleeping sickness,cocaine abuse
+endocarditis,hypolipoproteinemia
+kuru,mastocytosis
+gastroenteritis,opitz-gbbb syndrome
+cryoglobulinemia,proctocolitis
+hypolipoproteinemia,hepatitis
+miosis,craving
+epididymitis,hepatoblastoma
+joubert syndrome 4,myocarditis
+adult i phenotype,cocoon syndrome
+tolerance,joubert syndrome 6
+aberrant crypt foci,hymenolepiasis
+intestinal polyps,eclampsia
+citrullinemia,kernicterus
+blau syndrome,hip fractures
+oliguria,motor disorders
+polyradiculopathy,czech dysplasia
+orchitis,hepatoblastoma
+tetralogy of fallot,nephronophthisis 9
+hypomagnesemia,bruck syndrome 1
+nbia2b,dental plaque
+glucagonoma,hiv seropositivity
+spinal stenosis,leukoplakia
+bone marrow cancer,nescav syndrome
+systemic vasculitis,drug psychosis
+aberrant crypt foci,hymenolepiasis
+orofacial cleft 5,ascites
+aarskog syndrome,central sleep apnea
+goldenhar syndrome,sitosterolemia
+seckel syndrome 4,feingold syndrome
+kowarski syndrome,arts syndrome
+hypomagnesemia,bruck syndrome 1
+polyneuropathy,chickenpox
+anorexia nervosa,laryngeal disease
+fuhrmann syndrome,cfhr5 deficiency
+celiac disease,hypoproteinemia
+glucagonoma,alstrom syndrome
+epidermal nevus,immunodeficiency 51
+pendred syndrome,blister
+spina bifida,holoprosencephaly 1
+fatty liver disease,calculi
+immunodeficiency 37,orofacial cleft 5
+choristoma,trichuriasis
+immunodeficiency 24,burns
+heart injuries,image syndrome
+ocular hypertension,immunodeficiency 8
+gastritis,feminization
+hypopharynx cancer,male infertility
+ileitis,poems syndrome
+lafora disease,psoriasis
+spondylolysis,bronchiolitis
+paragangliomas 3,cachexia
+tonsillectomy,kidney failure
+status asthmaticus,hyperargininemia
+nephrolithiasis,arachnodactyly
+addison's disease,renal oncocytoma
+hypomagnesemia,bruck syndrome 1
+subacute delirium,blau syndrome
+signs and symptoms,lipoid proteinosis
+tics,ulcer
+cattle diseases,rectal disease
+opitz-gbbb syndrome,herpes labialis
+blindness,hypertrophy
+pasteurellosis,epidural abscess
+brain stem cancer,reynolds syndrome
+paragangliomas 5,thalassemia
+capgras syndrome,psoas abscess
+birk-barel syndrome,long qt syndrome 3
+ck syndrome,genomic instability
+pre-eclampsia,tracheal cancer
+fetal death,eye injuries
+immunodeficiency 48,keratoconus
+ventricular flutter,insomnia
+noonan syndrome 5,laryngomalacia
+granuloma,warfarin resistance
+anus disease,bruxism
+keipert syndrome,leigh disease
+basan syndrome,hypersplenism
+osteosclerosis,trimethylaminuria
+immunodeficiency 48,keratoconus
+serotonin syndrome,au-kline syndrome
+menkes disease,retinoschisis
+coronary aneurysm,subacute delirium
+cerebellar ataxia,hypotrichosis 2
+endophthalmitis,vitreous hemorrhage
+elderly adult,abdominal neoplasms
+duodenal ulcer,achromatopsia 2
+urinoma,failure to thrive
+syndactyly type 4,blau syndrome
+giardiasis,acute abdomen
+fat necrosis,anhedonia
+prinzmetal angina,mast syndrome
+septic arthritis,hepatitis b
+mastodynia,angiosarcoma
+auditory neuropathy,grange syndrome
+acidosis,aarskog syndrome
+weaver syndrome,boomerang dysplasia
+tyrosinemia,esophageal stenosis
+parapsoriasis,medulloepithelioma
+alkaptonuria,dyssomnias
+fetal death,portal hypertension
+fat necrosis,anhedonia
+reperfusion injury,bone disease
+spondylitis,opisthorchiasis
+glycosuria,lipomatosis
+medulloblastoma,hypoglycemia
+nemaline myopathy 7,gaucher's disease
+balkan nephropathy,polyuria
+dysostosis,iritis
+immunodeficiency 61,linitis plastica
+adult i phenotype,gliosarcoma
+galactorrhea,headache disorders
+tics,ulcer
+tick-borne diseases,athletic injuries
+aortic disease,aphthous stomatitis
+calcinosis,episodic ataxias
+mediastinal cancer,cowden syndrome 4
+lymphedema,linitis plastica
+neu-laxova syndrome,optic nerve disease
+sjogren's syndrome,parasomnias
+failure to thrive,purpura fulminans
+pseudobulbar palsy,reperfusion injury
+liver disease,oral ulcer
+isovaleric acidemia,auditory neuropathy
+carcinogenesis,renal glycosuria
+pica disease,diurnal enuresis
+parkinson's disease,silicosis
+leigh disease,pulmonary edema
+megalocornea,brugada syndrome
+clear cell sarcoma,immunodeficiency 25
+hyperparathyroidism,corneal dystrophy
+fetal distress,hepatitis b
+fascioliasis,immunodeficiency 37
+carcinoma,hemifacial spasm
+kidney cancer,genetic disease
+brugada syndrome,hyperglycinuria
+primary dystonia,dirofilariasis
+erythromelalgia,lissencephaly
+ameloblastoma,leydig cell tumor
+colonic disease,krabbe disease
+mc syndrome 3,keratitis

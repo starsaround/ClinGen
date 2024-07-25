@@ -1,0 +1,2338 @@
+periodontitis,patl1
+weight gain,aasdhppt
+gallstones,abcc4
+enterocolitis,abcb6a
+encephalitis,abcc3
+conduct disorder,htr2a
+oliguria,pomc
+thromboembolism,abcc4
+fibrosarcoma,aatkb
+cleft palate,abcd3
+protein deficiency,a1bg
+dog diseases,dnm1
+peritonitis,abcb5
+hamartoma,aacs
+anorexia,abcd1
+poems syndrome,aacs
+heart disease,xdh
+corneal ulcer,abcb1a
+cerebellar disease,abcb7
+malaria,slc4a1
+cocaine abuse,a3galt2
+oliguria,abca3b
+plant poisoning,abcb6
+pre-eclampsia,aacs
+cervical cancer,yy1
+growth disorders,abcb1
+contact dermatitis,aak1
+pyomyositis,aadat
+familial dementia,a2m
+weight loss,1-sf
+obesity,glul
+hot flashes,42sp50.l
+albuminuria,abcc1
+choriocarcinoma,abca1b
+schizophrenia,gramd1b
+hypobaropathy nos,abca6
+hallucinations,drd3
+lung cancer,aven
+hypertension,nr1i2
+neutropenia,slc28a1
+conn's syndrome,aak1
+overweight,aadacl3
+pheochromocytoma,aamdc
+peritoneal fibrosis,abcc1
+glucose intolerance,aay
+food allergy,abca1
+liver cancer,ctnnb1
+splenic disease,a4galt
+plasmacytoma,abcb1a
+splenomegaly,a2ml1
+hyperthyroidism,pon1
+uterine fibroid,arhgap22
+parkinson's disease,grik1
+heroin dependence,aadat
+colon cancer,aco2
+multiple sclerosis,slc30a7
+stupor,abcd3
+dim vision,aamp
+spasm,abca1
+wounds and injuries,abcc4
+colorectal cancer,pold1
+kyphosis,ltbp3
+prenatal injuries,loxl5b
+acidosis,abcc12
+q fever,hmgcr
+alzheimer's disease,asip
+hypospadias,abcb11
+colorectal cancer,tnfsf13
+kidney cancer,cxcl5
+back pain,abcf1
+polycythemia,abca4
+taste disorders,aatf
+periodontitis,bin1
+melanosis,aatk
+crohn's disease,a4gnt
+poisoning,gsk3b
+breast cancer,hdgf
+angioedema,aarsd1
+oral ulcer,aatk
+kaposi's sarcoma,abca12
+prostate cancer,qars1
+renal hypouricemia,abcb10
+parkinson's disease,dync2i1
+nose disease,aaas
+urticaria,abcc9
+anemia,fancm
+ataxia,abcc6p1
+alopecia areata,best3
+lichenoid eruptions,abcb1a
+speech disorder,aamp
+achromatopsia,abcg2
+ulcerative colitis,ccl11
+cryptococcosis,aatf
+polyneuropathy,abcb7
+endometrial cancer,msh6
+agranulocytosis,hla-b
+neutropenia,tymsos
+atrophy,cyp1a2
+ovarian cancer,st3gal3
+hypochromic anemia,abca1a
+hypotension,a2ml1
+ptosis,abcb1b
+hypotension,abcc11
+mednik syndrome,abcb10
+fatty liver disease,tnf
+parkinson's disease,tchh
+acid-base imbalance,abca5
+endometriosis,mettl7a
+peanut allergy,1-sf
+isaacs syndrome,abca1
+parkinson's disease,rnf130
+celiac disease,ctla4
+prolactinoma,abcc10
+prostatitis,abcb8
+spinal cord disease,aard
+lichenoid eruptions,abcb1a
+multiple sclerosis,nectin4
+ovarian cysts,aadac
+thrombophilia,thbd
+anterior uveitis,abcd2
+hepatitis,aat1
+hematologic cancer,dedd
+psoriasis,nbr1
+hyperkinesis,a2ml
+azoospermia,kri1
+carcinoma,gnai2
+multiple sclerosis,ptprk
+wounds and injuries,abca5
+leprosy,nod2
+brain cancer,abcd3b
+crohn's disease,a4gnt
+carcinoma,tubb2b
+anxiety disorder,3101707
+hypolipoproteinemia,abcc12
+melanoma,orai2
+respiratory sounds,abca4
+skin cancer,tp53
+migraine,htr2c
+ovarian cancer,gpld1
+tics,aatf
+prostate cancer,cyp1b1
+thrombophlebitis,abat
+neonatal jaundice,abca1
+polyneuropathy,aatbc
+parkinson's disease,bckdhb
+hemorrhage,a2ml1
+hallucinations,drd3
+pituitary adenoma,aagab
+peritonitis,abcc5
+mouth disease,aamp
+kaposi's sarcoma,abcb4
+brugada syndrome,a3galt2
+exophthalmos,abcf2
+cleft palate,msx1
+hyperkinesis,a2ml
+visual epilepsy,abcd4
+weight gain,clic4
+alopecia areata,nt5dc1
+colonic disease,abcc6a
+gaucher's disease,abcg1
+ischemia,abb
+phobic disorder,aadat
+periodontitis,patl1
+necrosis,5-ht1b
+myocarditis,abcb1
+hyperphagia,aak1a
+prostate cancer,anxa3
+impotence,aagab
+pseudolymphoma,a1bg
+crohn's disease,aplnr
+pulmonary edema,a1cf
+mouth disease,abcc12
+catatonia,a4galt
+melanoma,sox15
+paralysis,abce1
+visual epilepsy,slc6a1
+keloid,tpsb2
+mercury poisoning,abcg1
+pediatric obesity,aatk
+brucellosis,abcb1a
+azoospermia,kri1
+lung cancer,stk11
+hair disease,aanat
+impotence,aar2
+hemangioblastoma,abcc2
+starvation,abcd2
+macrocytic anemia,abcg2a
+malaria,hrk
+dry eye syndrome,tgfb1
+psoriasis,klk9
+kidney cancer,apcdd1l
+necrosis,aaas
+neutropenia,aars2
+lipoid nephrosis,abca8a
+uterine fibroid,hmga2
+keloid,tpsb2
+endometriosis,bmp7
+rickets,abcc4
+pancreatitis,aldh2
+migraine,aars2
+mouth disease,abcc6b.2
+cocaine abuse,lrrc7
+psoriasis,myo9a
+carcinoma,abca13
+macrocytic anemia,abcg2a
+kartagener syndrome,ccno
+cardiotoxicity,aaas
+alopecia areata,b9d1
+male infertility,abca9
+ovarian cancer,krt20
+splenic disease,abcc9
+sialorrhea,aass.l
+lung cancer,znf574
+schizophrenia,gramd1b
+psoriasis,map3k2
+oligospermia,abcb1
+rhabdomyosarcoma,abcd3
+memory disorders,aaed1
+brain disease,abce1
+cyanosis,a1cf
+hematemesis,abcg2
+parakeratosis,abat
+nematode infections,abcc1
+visual epilepsy,abcc4
+dysphonia,abcb6
+ascites,abcf2
+melanosis,abca8b
+muscular atrophy,abcb8
+insomnia,abca17p
+myasthenia gravis,abcb1
+gynecomastia,abcb9
+osteoporosis,gpd2
+psoriasis,tle1
+hyperthyroidism,abcb1b
+abdominal pain,abca9
+breast cancer,ctu1
+cerebral hemorrhage,abca3b
+corneal disease,abcc12
+cone-rod dystrophy,rims1
+adenocarcinoma,tcf7l2
+unconsciousness,abcc4
+liver cancer,aldob
+tardive dyskinesia,htr2a
+myocardial ischemia,tfrc
+anaphylaxis,a4galt
+dyspnea,abca8b
+reperfusion injury,cd36
+uterine fibroid,tmem131
+torsades de pointes,aasdhppt
+movement disease,7b2
+oral candidiasis,abcc2
+quadriplegia,aacs
+alcohol dependence,aatbc
+fecal incontinence,a2m
+melas syndrome,mt-tv
+dental caries,abcd3
+skin disease,abcc1
+pyomyositis,abcc3
+schizophrenia,taar6
+hiv seropositivity,abca1
+weight gain,mapre1
+pre-eclampsia,aak1a
+hypertrophy,npy
+hemosiderosis,abcb11
+asthenia,aanat2
+overweight,abcc8
+enterocele,abca1
+kidney cancer,ccl28
+hemorrhage,abcg2a
+necrosis,5-ht1b
+vascular remodeling,abcg2
+rickets,abca3
+gynecomastia,abcb9
+neural tube defect,5-ht1b
+crohn's disease,aplnr
+hemorrhage,abcc6a
+endocarditis,aar2
+hypoglycemia,abca14
+thrombocytosis,abcb4
+cholelithiasis,aars1
+primary dystonia,a2ml
+meckel syndrome 1,abcc6
+pituitary adenoma,aagab
+lymphoma,abcf2
+onchocerciasis,abcb1
+aphonia,abca4
+chest pain,abcd4
+stroke,pti
+arthritis,5-ht1b
+cholestasis,npl
+myeloid leukemia,aatk
+periodontitis,mmp8
+schizophrenia,nup50
+vascular remodeling,abcg2
+alzheimer's disease,get3
+mercury poisoning,abca8
+cysts,aadacl3
+orchitis,abcc12
+neural tube defect,abcd4
+camptocormia,abcb4
+aphthous stomatitis,aars1
+kidney cancer,dio1
+alstrom syndrome,abcb4
+prolactinoma,abcc10
+psoriasis,icam1
+facial pain,abcc5
+bladder disease,vip
+subacute delirium,aagab
+nasal obstruction,abca6
+sciatic neuropathy,abcc2
+rhabdomyolysis,a1bg-as1
+alopecia areata,gal3st2
+serositis,abcb5
+motor disorders,abat
+hypogonadism,a1cf
+peroneal neuropathy,abca3
+hemiplegia,abcc11
+hypoglycemia,aacsp1
+genital herpes,abce-1
+esophagitis,abca4
+fibrosis,slc27a2
+exophthalmos,aagab
+edema,aagr-2
+ischemia,sod2
+heart disease,s1pr2
+schizophrenia,wdr61
+hypogonadism,abcc8
+stomach cancer,ccat1
+lung cancer,znf574
+cervix disease,abcb1
+alzheimer's disease,ppargc1a
+subacute delirium,abcc8
+brain edema,a2ml
+epilepsy,col1a1
+hyperinsulinism,kcnj11
+alopecia areata,best3
+atrophy,abcc6b.1
+scoliosis,abcf2a
+sinusitis,abcb4
+cervical cancer,abcc3
+ulcerative colitis,ifng
+hyperprolactinemia,abca13
+renal hypertension,agt
+weaver syndrome,nsd1
+amnestic disorder,abcb10
+sleep disorders,a1bg
+kidney cancer,camk1
+cluster headache,abcg2
+allergic rhinitis,pfn2
+tooth loss,abcb9
+paralysis,abcg1
+paralysis,aard
+heart disease,a3
+alcohol dependence,c8orf82
+hookworm disease,abcc4
+kidney disease,adra1b
+autoimmune diseases,col1a1
+alopecia areata,tlr1
+hypernatremia,a2m
+narcolepsy,a4galt
+anisometropia,abcc8
+cerebral infarction,abcb11
+paraquat lung,abcb5
+hallucinations,drd3
+lymphoma,abcf2a
+pheochromocytoma,aamdc
+teratogenesis,abcb6
+oroticaciduria 1,umps
+hyperemia,abca16
+hematologic cancer,ccnd3
+myotonia,a4galt
+body weight changes,aak1
+prostatitis,aak1
+melanoma,serpinb5
+hyperhidrosis,aacs
+myocardial ischemia,bhlhe40
+memory disorders,5-ht1b
+anaphylaxis,abcc1
+placenta disease,abca7
+amenorrhea,abca1
+prostatitis,aak1
+hypercalciuria,aanat2
+dysarthria,aak1
+purpura fulminans,aarsd1
+headache,abcd1
+ocular cancer,ccnd3
+hyperglycemia,aadacl3
+myocardial stunning,abcc1
+myopia,abat
+histiocytosis,abcb1b
+muscle rigidity,aatbc
+psoriatic arthritis,derl1
+rosacea,abcc1
+facial pain,abcc5
+pemphigus,abcb7
+edema,abca4
+vasculitis,abca8a
+tics,abcb7
+anisometropia,abcb6a
+vision disorders,aatk
+hypochromic anemia,abca1a
+ulcerative colitis,ifng
+isaacs syndrome,abca1
+refractive error,pdgfra
+torsades de pointes,aasdhppt
+adenocarcinoma,ctnnb1
+gastroenteritis,abcb5
+synovial sarcoma,ssx2
+oroticaciduria 1,umps
+breast cancer,mif
+febrile seizures,abcc2
+kidney cancer,acsl5
+cognition disorders,5-ht7
+insomnia,abcc1
+schizophrenia,grik2
+endocarditis,aar2
+hemorrhage,abcc6a
+neoplasm metastasis,aak1b
+breast cancer,ctu1
+atrial flutter,abcc12
+asthenia,aanat2
+hematologic cancer,mx1
+obesity,aacs
+ketosis,abcc6p1
+embryo loss,abca17p
+dry eye syndrome,abcg2
+anorexia,abca4
+melanoma,znf750
+ulcerative colitis,tmem98
+fanconi syndrome,abcb1b
+uterine anomalies,abca1a
+lung cancer,bag4
+sick sinus syndrome,abcb5
+kidney cancer,acsl5
+hyperkalemia,abcc9
+esophageal disease,abcc4
+hallucinations,abcb8
+lung adenocarcinoma,klf5
+myelitis,abcd1
+periodontitis,naa20
+breast cancer,emsy
+hamartoma,aamdc
+pneumocephalus,abcb1b
+cocaine abuse,calm2
+angioedema,a1cf
+fetal death,aat-4
+uterine fibroid,esr1
+anaphylaxis,a4galt
+thyrotoxicosis,abcc6
+neoplasm metastasis,aak1b
+neutropenia,aars2
+porphyria,abca1
+hematologic cancer,ccnd3
+adenocarcinoma,ctnnb1
+meningitis,aard
+stroke,abca5
+chromosome breakage,abcb6a
+schizophrenia,hsdl2
+kidney disease,ackr3
+hematologic cancer,hyls1
+exophthalmos,aagab
+multiple myeloma,irf4
+hypertension,mmp3
+gallstones,abcc4
+diabetic angiopathy,ass1
+heart valve disease,abcb1b
+uterine hemorrhage,abcc11
+alopecia areata,tmbim4
+psoriatic arthritis,kpna1
+polyneuropathy,a4galt
+onchocerciasis,abcb1
+periodontitis,tnf
+lupus nephritis,aanat2
+esophageal cancer,b2m
+dental fluorosis,aamp
+kaposi's sarcoma,abcb6
+corneal perforation,abcb1
+coronary disease,ace
+eye abnormalities,abca1a
+movement disease,7b2
+trichotillomania,slitrk1
+neutropenia,nr1i3
+ulcerative colitis,col6a3
+xerostomia,aarsd1
+lung cancer,myc
+ulcerative colitis,irf8
+microcephaly,a2m-as1
+lethargy,a3galt2
+breast cancer,aamp
+amenorrhea,aanat2
+nose disease,aaas
+sore on skin,abca3
+diarrhea,abca4a
+retrograde amnesia,abcb10
+epilepsy,hspa1l
+brain death,abcc11
+borderline leprosy,abcb6
+anodontia,wnt10a
+vascular dementia,a2m
+alcohol dependence,oprm1
+cancer,bcl2l11
+ascites,abcf2
+achromatopsia,abcg2
+muscle hypertrophy,abcb8
+meningitis,aard
+hematologic cancer,cdkn1b
+headache,abcd1
+multiple sclerosis,abcb1a
+wilson disease,abca17
+poisoning,abat
+paralysis,abce1
+paralysis,aard
+adenocarcinoma,tcf7l2
+fanconi syndrome,aamdc
+genomic instability,abcf3
+familial dementia,abat
+kidney disease,alb
+abdominal abscess,abcc3
+albuminuria,abcc1
+barrett's esophagus,sgms1
+insulin resistance,abca8a
+hemosiderosis,abcb11
+nephritis,abce1
+parkinson's disease,trpm7
+melanoma,abcg1
+kidney cancer,a1cf
+myocardial ischemia,irf1
+overweight,aadacl3
+pancreatic cancer,gpr25
+acute pancreatitis,abcc10
+melanoma,rflna
+cancer,bcl2l11
+cardiac oedema,abcg2a
+hypokinesia,abcc6
+lymphoid leukemia,pot1
+uremia,ugt1a1
+impotence,oprm1
+mirage syndrome,samd9
+alzheimer's disease,calml3
+endometrial cancer,msh6
+urticaria,abcc9
+carcinoma,abca13
+bipolar disorder,aatk
+embryo loss,aagr-2
+hemoptysis,aatbc
+lung cancer,znf574
+colon cancer,aco2
+kidney cancer,raf1
+edema,aasdh
+growth disorders,abcb10
+myelomeningocele,abcb6a
+cholestasis,npl
+hypoproteinemia,aacs
+microstomia,aatk
+atrial fibrillation,abca17
+camptocormia,abcb4
+hyperphagia,abcb1
+ataxia,abca17
+pain,abcc9
+fanconi syndrome,aamdc
+parkinson's disease,pafah1b1
+testicular cancer,bcl10
+cervical cancer,jak2
+pituitary apoplexy,abcc12
+conduct disorder,abcb11b
+eye abnormalities,stg
+alcohol dependence,ccdc43
+gonadal disease,abcf2
+syphilis,aar2
+conduct disorder,abcb11b
+tachycardia,abat
+prostate cancer,met
+crohn's disease,pkm
+multiple sclerosis,hp1bp3
+barrett's esophagus,pef1
+osteopetrosis,plekhm1
+spinal cord disease,a1bg-as1
+fatty liver disease,ppard
+esophageal cancer,b2m
+erythema,abcb4
+phobic disorder,aadat
+pseudotumor cerebri,abca1b
+cardiomyopathy,stat3
+coma,abca5
+oroticaciduria 1,umps
+ketosis,abcc6p1
+uterine fibroid,dph2
+crohn's disease,pkm
+alcohol dependence,ccdc43
+asthma,il12b
+multiple sclerosis,arcn1
+hematologic cancer,abcc8
+ulcerative colitis,s100p
+cocaine abuse,a3galt2
+multiple sclerosis,hfe
+myoma,abcd3
+schizophrenia,mthfr
+alcohol dependence,arhgap30
+lung cancer,aven
+fibrosis,dcn
+fanconi syndrome,abcc3
+glomerulonephritis,abca3
+alcohol dependence,c8orf82
+hypotension,abce-1
+prenatal injuries,a1cf
+glaucoma,six1
+oliguria,abcb11
+quadriplegia,aacs
+retinal detachment,abcb1
+hematologic cancer,anxa5
+kidney cancer,aqp2
+liver disease,ahr
+cholecystitis,aatbc
+osteoarthritis,aadat
+heart valve disease,abcb1b
+schizophrenia,hivep1
+heart disease,s1pr2
+ulcerative colitis,tpm4
+follicular lymphoma,borcs8-mef2b
+breast cancer,ralyl
+hematologic cancer,znf85
+dental fluorosis,abcb4
+nephrosclerosis,abcc5
+movement disease,7b2
+fatty liver disease,tnf
+cancer,bcl2l11
+nocturnal enuresis,abcb11
+chromosome breakage,aakg-4
+body weight,abcc4
+pleural cancer,abcb5
+birth weight,5-ht1b
+pleurisy,abcc6
+peritonitis,abcb5
+sleep disorders,aay
+microstomia,abcb1b
+neuroblastoma,aadat
+neurilemmomatosis,smarcb1
+thrombosis,abcb1a
+amnestic disorder,aak1
+dirofilariasis,a2ml1.l
+lipodystrophy,abcb1
+ventricular flutter,abcb1
+poisoning,abat
+meckel syndrome 1,abcb1b
+prostate cancer,shc4
+aphthous stomatitis,abcd1
+panic disorder,aagab
+back pain,abcf1
+pleural effusion,aatkb
+pseudotumor cerebri,aacsp1
+kidney cancer,ccl28
+alzheimer's disease,asip
+malaria,ogdh
+myalgia unspecified,abcc4
+acne,abcc2
+dermatitis,pla2g4a
+insulin resistance,abca8a
+unconsciousness,abcc4
+sore on skin,aasdhppt
+hepatomegaly,cabcoco1
+bipolar disorder,aatkb
+nocturnal enuresis,abcb1a
+ureteral disease,aamp
+colonic polyps,abca17
+hypospadias,abcf1
+critical illness,abcc5
+lung disease,aak1a
+schizophrenia,abhd6
+hyperkalemia,abcf1
+pleurisy,il6
+prinzmetal angina,abcb1a
+lung disease,aak1a
+pemphigus,aamdc
+obesity,ido1
+crohn's disease,pkm
+sleep disorders,aay
+eye pain,abcg2
+gout,cd14
+renal hypouricemia,abcb10
+multiple myeloma,aacs
+glioblastoma,aay
+pituitary adenoma,abcd3
+prostate cancer,anxa3
+breast cancer,anln
+fatty liver disease,ppard
+myocarditis,abcd1
+ataxia,abca17
+tongue disease,abcd3
+nephrolithiasis,slc22a12
+pleural disease,abcb1b
+stroke,abca5
+recurrence,aacs
+kidney disease,aatbc
+cryptorchidism,abcc8
+azoospermia,dlec1
+lung disease,aak1a
+teratogenesis,abcb6
+ovarian cancer,abcb5
+oroticaciduria 1,umps
+bone marrow disease,a2ml
+prostate cancer,anxa3
+liver cancer,igf2
+oliguria,abcb6a
+dry eye syndrome,abcc11
+bacterial sepsis,abca11p
+neoplasm metastasis,aass
+enterocolitis,abcb6a
+pain,42sp50.l
+pheochromocytoma,a1bg-as1
+psoriasis,cers6
+nephroma,xpo5
+mercury poisoning,abcg1
+embolism,a4galt
+scleral disease,aars1
+catalepsy,aamdc
+hypothyroidism,sh2b3
+onycholysis,abca7
+breast cancer,ralyl
+testicular cancer,abcb9
+lung cancer,cd274
+duodenal ulcer,abcf1
+emphysema,tp53
+hyperalgesia,abcg2
+facial pain,abcc9
+dental caries,abcd3
+syndrome,a2m
+impotence,aar2
+hepatitis,abcc6
+psoriasis,pgam1
+cocaine abuse,abca5
+contact dermatitis,bcl2
+cadmium poisoning,abcc6
+cone-rod dystrophy,rax2
+hair disease,aanat
+q fever,hmgcr
+pleural effusion,abca8a
+mesenteric ischemia,a4galt
+poisoning,abat
+heart injuries,abca11p
+hyperparathyroidism,pth1r
+esophagitis,abca4
+polyneuropathy,abcd2
+brain injuries,abcf2a
+melanoma,sox15
+psoriasis,ing4
+neuroblastoma,dock8
+borderline leprosy,abcb6
+bradycardia,abca4
+endotoxemia,abcc6p1
+learning disability,slc17a7
+endometrial cancer,a1cf
+cataplexy,aasdh
+melanoma,orai2
+barrett's esophagus,ptk2b
+insulin resistance,abca8a
+osteopetrosis,plekhm1
+kidney cancer,ccl28
+voice disorders,abcb4
+brain injuries,abcf2a
+tauopathy,a1cf
+fatty liver disease,angptl4
+prostate disease,abca9
+growth disorders,abcb1
+hepatitis,abca13
+anisometropia,abcb8
+adenocarcinoma,mpp1
+weight gain,faah
+emphysema,fbln5
+alcohol dependence,hspa8
+alzheimer's disease,ppargc1a
+cryptococcosis,aatf
+breast cancer,zfp366
+uterine fibroid,hmbox1
+lipoid nephrosis,abcb4
+ulcerative colitis,map3k21
+colon cancer,bub3
+kidney cancer,ppdpfl
+hyperemia,abca8
+cystadenoma,abcd1
+cystadenoma,abcd1
+colon cancer,spag7
+nerve degeneration,otx2
+critical illness,abcc5
+autoimmune diseases,col1a1
+mouth disease,abcc1
+lactic acidosis,aagab
+asthma,prmt5
+liver disease,abcb1
+breast cancer,dusp22
+brain ischemia,abcc6
+melanoma,serpinb5
+osteosarcoma,abca10
+cysticercosis,abcb9
+oroticaciduria 1,umps
+schizophrenia,grik2
+cholelithiasis,abca6
+psoriasis,nbr1
+polyneuropathy,aars1
+borderline leprosy,abcb6
+breast cancer,sulf1
+kidney disease,ppara
+nicotine dependence,a4galt
+parkinson's disease,dync2i1
+amelanotic melanoma,a1cf
+hematologic cancer,trh
+schizophrenia,ctdnep1
+dwarfism,plk4
+breast cancer,fgf1
+hiccup,aars2
+chorioamnionitis,abcf1
+breast cancer,kras
+hyperthyroidism,pon1
+alopecia areata,tlr1
+jaw abnormalities,abca1
+brain injuries,abcc3
+nephrocalcinosis,abcd4
+weight gain,clic4
+prostate cancer,laptm4a
+dirofilariasis,a2ml1.l
+hematologic cancer,dedd
+malaria,lrrc26
+breast cancer,gins2
+follicular cyst,abcg1
+vestibular disease,abca6
+hyperkalemia,abcf1
+atrial fibrillation,cog5
+tricuspid atresia,aasdh
+eye manifestations,a1bg
+hepatitis,abca13
+scoliosis,abcf2a
+cholangitis,abca4a
+congenital syphilis,abcd4
+focal epilepsy,aass
+malaria,alkbh3
+bradycardia,abca4
+coma,abcb1b
+cerebral infarction,abcb11
+acid-base imbalance,abca5
+weight gain,clic4
+anuria,aarsd1
+brain cancer,gli2
+lung injury,aar2
+somatoform disorder,abca1
+pain,42sp50.l
+alzheimer's disease,tgfb1
+hemangioma,abca8
+lung cancer,bag4
+overweight,abcc8
+parkinson's disease,ndufa5
+multiple sclerosis,abcb1a
+bone cancer,abcg1
+myeloid leukemia,kmt2e
+gliosis,itga2
+coronary disease,crp
+breast cancer,scn10a
+neoplasm metastasis,aak1b
+premature birth,abcc3
+schizophrenia,ctdnep1
+anorectal stricture,aard
+pancreatic cancer,gamt
+neuroblastoma,bche
+ovarian cysts,aadacl4
+hypotension,aadat
+cystic fibrosis,scnn1g
+oral ulcer,abcb1a
+spinal disease,abcf2a
+pre-eclampsia,aacs
+hypertension,gsk3b
+leiomyoma,abcf3
+gynecomastia,abcb9
+lepromatous leprosy,abcb1
+breast cancer,tbx3
+glaucoma,abcb4
+pulmonary fibrosis,hgf
+cerebellar ataxia,snx14
+testicular cancer,bcl10
+onycholysis,abca7
+cocaine abuse,cckbr
+malaria,hrk
+alopecia areata,nt5dc1
+absence epilepsy,abcb1
+endometrial cancer,aasdh
+asthma,abcb9
+pain,abcb1b
+prostatitis,aak1
+adenocarcinoma,a26c2
+anisometropia,abcc8
+brain ischemia,sele
+fistula,abcc1
+asthma,abcb9
+renal hypertension,agt
+eye pain,abcg2
+exanthem,a1bg
+schizophrenia,adamtsl3
+lung cancer,myc
+learning disability,aadacl4
+myotonia,a4galt
+retinal disease,abca8a
+muscle rigidity,abcb10
+multiple sclerosis,hfe
+crohn's disease,parvb
+virus diseases,tnfsf9
+anovulation,abcb1a
+cancer,dscam
+contact dermatitis,aak1
+brain disease,abce1
+thrombophilia,aar2
+polydactyly,ccnd2
+liver disease,abcb10
+poems syndrome,aacs
+hyperemia,aadat
+hemorrhage,abcg2a
+papilledema,abca6
+ovarian cancer,st3gal3
+glucose intolerance,abcd3
+medulloblastoma,apc2
+chromosome breakage,aakg-4
+schizophrenia,qser1
+carcinoma,tf
+fanconi syndrome,abcc3
+spinal disease,abcc11
+hypogonadism,abca4a
+spina bifida,abca6
+nephrolithiasis,slc22a12
+scleral disease,aars1
+cardiomyopathy,app
+hematologic cancer,lef1
+stomatitis,abcc8
+glioblastoma,deup1
+azoospermia,tbca
+cleft lip,crispld2
+iron overload,a2ml1
+brain ischemia,sele
+hypochromic anemia,abca1a
+pleurisy,abcc6
+cocaine abuse,a3galt2
+gliosis,itga2
+atherosclerosis,abca14
+plant poisoning,abcb6
+neural tube defect,abcd4
+body weight changes,abcc11
+kartagener syndrome,ccdc65
+cerebral palsy,a4gnt
+albuminuria,sod2
+paraplegia,abca1
+hyperphagia,aak1a
+psoriasis,myo9a
+alstrom syndrome,abcb4
+primary dystonia,a2ml
+necrosis,gstp1
+coronary thrombosis,abcf3
+uterine fibroid,ventx
+breast cancer,aamp
+lymphoma,abcf2a
+breast cancer,alpl
+alzheimer's disease,bend5
+ovarian cancer,rab1a
+acidosis,abcf2
+thyrotoxicosis,abcc4
+rhabdomyolysis,a1bg-as1
+psoriasis,csmd1
+aphthous stomatitis,abcd1
+reye syndrome,abca1a
+renal hypouricemia,abcb10
+cocaine abuse,lrrc7
+lentigo,abca5
+diabetic angiopathy,ass1
+encephalocele,abca1a
+barrett's esophagus,ptk2b
+encephalitis,fcer2
+cocaine abuse,abca5
+hemoptysis,abcb8
+dysarthria,abcb5
+weight gain,large1
+ovarian disease,a2ml
+lipodystrophy,abcb1
+hypospadias,abcb11
+hyperthyroidism,abcc5
+torsades de pointes,aasdhppt
+oliguria,abca3b
+nicotine dependence,fhod3
+leprosy,abcc6
+nasal obstruction,abca6
+lung cancer,znf574
+camptocormia,abcb4
+myelomeningocele,abcb6a
+prostatitis,abcb8
+gastroenteritis,abcb5
+cerebral palsy,abcc2
+impotence,aar2
+hematuria,abcc5
+hyperparathyroidism,pth1r
+fever,abcb4
+impotence,aagab
+carcinoid,aadat
+colon cancer,aco2
+hemolysis,abcc1
+graves' disease,abcc4
+nerve degeneration,pink1
+asthma,sftpb
+pancreatic cancer,gpr25
+jaundice,abcd4
+anorectal stricture,aard
+schizophrenia,frg2
+hematuria,abcc5
+fatigue,abca1
+epilepsy,hspa1l
+autistic disorder,h2bc21
+dim vision,aamp
+hair disease,aanat
+hypotension,a2ml1
+hypoglycemia,abcc11
+lichenoid eruptions,abcb1a
+enterocolitis,abcb11
+crohn's disease,btn3a1
+hepatoblastoma,aars1
+malaria,mfap3
+kidney cancer,dio1
+pleurisy,il6
+papilledema,abca6
+parkinson's disease,tchh
+spleen cancer,abca8a
+schizophrenia,taar6
+sezary's disease,cdkn2a
+visual epilepsy,abca10
+thrombophlebitis,abat
+breast cancer,dusp22
+hypertension,lrtm1
+paraquat lung,abcb5
+testicular disease,abca1
+neutropenia,slc28a1
+hypertension,gpr89b
+malaria,abca1
+ovarian cancer,znf23
+autoimmune diseases,a
+lupus nephritis,aanat2
+hyperemia,abca8
+pterygium,abcc4
+atrial flutter,abcc12
+hyperplasia,mmp9
+uremia,ugt1a1
+vitiligo,ctla4
+neutropenia,aars2
+voice disorders,abcb4
+obesity,hsf1
+mercury poisoning,abca3
+chromosome breakage,abcd2
+hepatitis b,tlr4
+ketosis,aaas
+purpura fulminans,aarsd1
+ovarian cysts,aadac
+coloboma,abcc3
+abdominal pain,aanat
+multiple sclerosis,ifih1
+colon cancer,spag7
+uterine anomalies,abca8a
+pneumopericardium,abcc9
+keloid,tpsb2
+polydactyly,ccnd2
+fever,abcb4
+nicotine dependence,ddc
+migraine,htr2c
+recurrence,aars2
+melanoma,skp2
+teratogenesis,a2ml
+kidney disease,ppara
+uterine fibroid,tmem131
+germ cell cancer,pou5f1b
+impotence,oprm1
+testicular disease,abca1
+mood disorder,lep
+amenorrhea,abca1
+polymyositis,cyp27b1
+liver cancer,abat
+barrett's esophagus,pef1
+osteopetrosis,plekhm1
+malaria,slx4ip
+growth disorders,abcb10
+feminization,abcc2
+malaria,zbed2
+hyperthyroidism,abcf3
+spinal neoplasms,abcb1b
+neutropenia,tymsos
+lichenoid eruptions,abcb1a
+phlebitis,abcb1b
+synovial sarcoma,ssx2
+leiomyoma,abcf3
+disease progression,abca1a
+glioblastoma,jag2
+airway obstruction,aamdc
+apraxia,bcl11a
+anophthalmos,aak1
+hypertelorism,aard
+peliosis hepatis,aamp
+carcinoma,tubb2b
+cryptorchidism,42sp50
+crohn's disease,mrps33
+dwarfism,plk4
+mononeuropathy,abcg1
+byssinosis,abca13
+pancreatic cancer,tnrc6a
+pain,abcb1b
+ischemia,abb
+ovarian cancer,aacsp1
+disease progression,abca1a
+fistula,a2ml1
+brain cancer,gli2
+exanthem,abca11p
+mercury poisoning,abca8
+hand dermatosis,abcc1
+hypertension,gsk3b
+prenatal injuries,aarsd1
+hyperbiliverdinemia,blvra
+ovarian cancer,znf23
+ovarian disease,aadacl3
+dystonia,gnal
+hookworm disease,abcc4
+fecal incontinence,a2m
+apraxia,abcd3
+impotence,aagab
+prostate cancer,mlh1
+multiple sclerosis,hp1bp3
+anaphylaxis,abcc4
+cortical blindness,abcc10
+hypotension,a2ml1
+hydrothorax,abca8
+paralysis,trpm7
+drug allergy,il4ra
+papilloma,aars1
+kidney calculi,abca11p
+migraine,slc6a4
+cerebral palsy,a4gnt
+hemorrhagic disease,abcd3
+insulin resistance,insr
+tinnitus,mt-rnr1
+dysarthria,abcb5
+nocturnal enuresis,abcb11
+alzheimer's disease,eno1
+rhabdomyolysis,cacna1s
+vasculitis,abca8a
+hyperthyroidism,abca1
+cholangitis,abcg2a
+prostate cancer,cyp1b1
+malaria,slx4ip
+gagging,abca12
+schizophrenia,nrxn1
+parkinson's disease,pafah1b1
+liver disease,tgm1
+retrograde amnesia,abcb10
+eyelid disease,aamp
+breast cancer,notch1
+pulmonary edema,abcb4
+syndrome,a2m
+colonic disease,abcc6a
+placenta accreta,abcc9
+hematologic cancer,nrip1
+bipolar disorder,aatk
+essential tremor,abcc6
+fatty liver disease,ppard
+eye manifestations,a1bg
+lethargy,a3galt2
+lung cancer,mrpl34
+barrett's esophagus,pef1
+onycholysis,abca7
+psoriasis,nbr1
+pneumopericardium,abcc9
+oliguria,abcb6a
+colonic disease,abcf2
+leprosy,nod2
+dehydration,a3galt2
+myocardial ischemia,ces3
+vision disorders,aatk
+retrograde amnesia,abcb10
+rhabdomyolysis,abca5
+muscle rigidity,abcc2
+thrombophilia,thbd
+breast cancer,hdgf
+neonatal jaundice,abca1
+polydipsia,abcc4
+tremor,abcg2
+schizophrenia,fcrl6
+atrial fibrillation,aatk
+testicular disease,abcc2
+tooth disease,abca8
+azoospermia,klf17
+myocardial ischemia,ces3
+meckel syndrome 1,abcb1b
+nephritis,abce1
+heat stroke,rel
+adenocarcinoma,a26c2
+schizophrenia,nup50
+hyperthyroidism,abca1
+uterine cancer,abcc12
+hematologic cancer,hp
+hemangioma,abcd4
+thrombophlebitis,aadat
+insomnia,abcc1
+liver cirrhosis,aak1a
+cartilage disease,abcb1
+thyrotoxicosis,abca7
+oroticaciduria 1,umps
+wasting syndrome,abcf1
+tics,aatf
+unconsciousness,a
+reflex epilepsy,abcd3
+amnestic disorder,aaed1
+choriocarcinoma,abca1b
+dehydration,a3galt2
+facial pain,abcc9
+prostatic adenoma,abcb1a
+visual epilepsy,abca7
+kidney disease,clu
+hypothyroidism,sh2b3
+neoplasm metastasis,aass
+hypospadias,hhip
+vasculitis,abca8a
+liver cirrhosis,aak1a
+lung cancer,itgb2
+neural tube defect,pyy
+methemoglobinemia,a1cf
+stupor,abcd3
+aberrant crypt foci,abcc4
+allergic disease,abcf2
+bacteremia,tirap
+purpura,abcb4
+pneumonia,abcc12
+dog diseases,dnm1
+nephrolithiasis,slc22a12
+atherosclerosis,nfkb1
+mouth disease,abcc12
+asthma,prmt5
+hypochromic anemia,abca1a
+stupor,abat.l
+weight loss,aak-2
+splenic disease,abcc9
+hypoglycemia,abcd3a
+polyneuropathy,a4galt
+urologic diseases,abcc1
+schizophrenia,mthfr
+skin cancer,krt7
+agranulocytosis,hla-b
+azoospermia,kri1
+hypertrichosis,abcc4
+poisoning,abat
+prostatitis,abca2
+mycosis fungoides,fas
+pancytopenia,abcb1a
+body weight changes,abcf2
+anemia,cyb5r2
+drug allergy,abcc12
+ocular cancer,ccnd3
+prostatic adenoma,abca11p
+dysostosis,actb
+epilepsy,cers1
+sinusitis,abcb4
+pemphigus,aamdc
+periodontitis,abca3
+myocarditis,n-tutca2
+atrial fibrillation,abca17
+reflex epilepsy,abcd3
+alzheimer's disease,ppargc1a
+polymicrogyria,fig4
+sick sinus syndrome,abcb5
+multiple myeloma,aadac
+body weight changes,aak1
+ulcerative colitis,hm13
+cardiomegaly,ctf1
+schizophrenia,hivep1
+migraine,aars2
+meningocele,aagab
+multiple myeloma,aadac
+motor disorders,abat
+embryo loss,abca17p
+hematologic cancer,trh
+necrosis,aaas
+uterine cancer,aanat1
+atrophy,abca17
+hypogonadism,abcc8
+dent disease,abcc4
+spinal cord disease,aard
+hematologic cancer,eif2ak1
+hepatitis,nat2
+ulcerative colitis,tpm4
+headache disorders,a2m
+rickets,pth
+psoriasis,pgrmc2
+anorectal stricture,abca2
+anxiety disorder,5-ht7
+malignant glioma,mybl1
+neuritis,abat
+hypertrophy,abcb6a
+hepatitis,abcd1
+ventricular flutter,abcb1
+cocaine abuse,cckbr
+hypertension,wnk1
+ulcerative colitis,mmp12
+asthenozoospermia,abcb10
+malignant glioma,mybl1
+hematologic cancer,map2k1
+beta thalassemia,abcc5
+stomach cancer,pycard
+lipoid nephrosis,abcf1
+hypospadias,abcb11
+foot dermatoses,aacs
+uterine hemorrhage,abcc11
+hemosiderosis,abcb11
+critical illness,abcc5
+meningitis,aanat2
+pre-eclampsia,aacs
+hemorrhage,abcc6a
+phlebitis,abcb10
+fatigue,abca1
+xerostomia,abcb11
+hypesthesia,abcc10
+tricuspid atresia,aasdh
+cartilage disease,abcb1
+placenta disease,aadat
+neutropenia,nr1i3
+porphyria,abca1
+crohn's disease,aplnr
+airway obstruction,aamdc
+duodenal ulcer,abo
+autistic disorder,tbr1
+ventricular flutter,abcb1
+polymyositis,cyp27b1
+psoriasis,csmd1
+immunodeficiency 42,rorc
+gallbladder cancer,abca6
+edema,aagr-2
+hyperparathyroidism,pth1r
+esophageal cancer,arid1a
+syndrome,a2m
+bone disease,18w
+gout,abcb11
+gait ataxia,abcb1a
+anuria,aatbc
+carcinoma,gnai2
+amoebic dysentery,abca1
+lung disease,abcb1
+pick's disease,aak1
+nephritis,abce1
+impotence,aagab
+hematologic cancer,tle3
+skin cancer,tlr7
+brain ischemia,abcc6
+endometriosis,bmp7
+atrophy,cyp1a2
+embryo loss,abca17p
+breast cancer,stat5a
+multiple myeloma,aar2
+atrial fibrillation,htr4
+gallbladder cancer,abca10
+hypohidrosis,abcb5
+coma,aak1
+hypokinesia,abcc6
+hypertrichosis,abcc4
+breast cancer,fgf1
+focal epilepsy,abca8a
+iron overload,a2ml1
+retinal disease,abca8a
+cervix disease,abcb1
+tibial fractures,abca3
+kartagener syndrome,ccno
+fetal death,abcb11a
+stomach cancer,mx1
+dysostosis,actb
+parkinson's disease,laptm4b
+carcinoid,aadat
+necrosis,aaas
+lymphoma,nras
+myeloid leukemia,aatk
+astrocytoma,acvr1
+malaria,s100a6
+breast cancer,cd40
+glucose intolerance,abcd3
+diarrhea,abca4a
+lung cancer,myc
+gout,abcb11
+pseudotumor cerebri,abat
+visual epilepsy,abcc6p2
+hemiplegia,abcc11
+hot flashes,42sp50.l
+ulcerative colitis,hm13
+acute pancreatitis,aasdhppt
+anorexia,abcd1
+periodontitis,tnf
+ovarian cancer,stard6
+malignant glioma,ptk2
+diabetic angiopathy,ass1
+muscle weakness,abcb1b
+diabetic angiopathy,ass1
+polyneuropathy,a4galt
+anxiety disorder,mir34a
+striae distensae,aar2
+stomach cancer,mx1
+nephrolithiasis,pfn3
+hypertension,wnk1
+amnestic disorder,aaed1
+essential tremor,aarsd1
+hypolipoproteinemia,aaas
+pyromania,abcc2
+burkitt lymphoma,abcb1b
+dermatitis,sharpin
+cardiotoxicity,abcf2b
+breast cancer,aldh3a1
+fibrosis,slc27a2
+anemia,fancm
+impotence,abca8a
+albuminuria,abcc13
+paresthesia,a1cf
+pheochromocytoma,aamdc
+psoriasis,sprr1b
+calculi,abcc2
+urinary retention,abcc9
+prostatitis,abcb8
+hematologic cancer,prdm1
+glucose intolerance,abcd3
+encephalomalacia,aak1
+west syndrome,abcf1
+ataxia,abca4a
+pain,drd2
+heart disease,xdh
+hemangioma,abca8
+colorectal cancer,tnfsf13
+schizophrenia,nrxn1
+epilepsy,hspa1l
+prostate disease,abca9
+dermatitis,pla2g4a
+brain death,abcc11
+alopecia areata,tmbim4
+prolactinoma,abcc10
+asthma,c3ar1
+birth weight,aard
+polydipsia,abcc4
+echinococcosis,tf
+multiple sclerosis,abca1
+cerebral infarction,abcb11
+uterine rupture,abca4
+peritoneal fibrosis,abcf1
+anorexia,abca4
+retinal disease,ocln
+schizophrenia,nrxn1
+asthma,postn
+gastritis,abcd2
+lymphoma,nras
+adenocarcinoma,42sp43
+crohn's disease,aplnr
+speech disorder,aamp
+periodontitis,bin1
+hypoglycemia,aacsp1
+sarcoma,smarcb1
+mucositis,abca5
+cough,5-ht1b
+leprosy,abcc6
+gastritis,aatk
+anemia,epor
+spinal disease,abcb4
+hot flashes,42sp50.l
+anorectal stricture,abca2
+angina pectoris,aatk
+azoospermia,kri1
+hematuria,abcd4
+alcohol dependence,aatbc
+brain injuries,apex1
+uterine hemorrhage,abcc11
+parapsoriasis,abcf1
+hematologic cancer,cd4
+schizophrenia,qser1
+lichenoid eruptions,abcb1a
+schizophrenia,loc388813
+dystonia,gnal
+epistaxis,abcd2
+myositis,abcd3b
+anaphylaxis,abcc6p2
+esophageal cancer,b2m
+tinnitus,abcb10
+diabetic angiopathy,ass1
+lethargy,a1bg-as1
+prostate cancer,ace
+panic disorder,abca7
+hyperglycemia,aagab
+mercury poisoning,abcg1
+pancreatic cancer,mt1f
+purpura,abcb4
+asthenozoospermia,aak1a
+adenocarcinoma,ctnnb1
+amnestic disorder,abca5
+hemorrhagic disease,abcd3
+spinal disease,abcf2a
+medulloblastoma,cdk6
+alcohol dependence,cyp2d6
+splenomegaly,a2ml1
+esophagitis,abca4
+asthenia,aanat2
+retinal hemorrhage,abca3
+tricuspid atresia,aak1
+vitreous hemorrhage,abcc6
+pemphigus,abcb7
+cholelithiasis,a1bg
+ulcerative colitis,hm13
+brain injuries,abcf2a
+periodontitis,tnf
+placenta accreta,abcc9
+multiple sclerosis,abcb6
+atrophic gastritis,abcc3
+endometrial cancer,abcg2
+conduct disorder,abca10
+angioedema,aarsd1
+colon cancer,aco2
+thrombophilia,thbd
+breast cancer,alpl
+bile duct adenoma,abcb11a
+choriocarcinoma,abca1b
+chlorine acne,aak1
+gonadal disease,abca4b
+pancreatic cancer,kcnj8
+ulcerative colitis,ccl11
+neutropenia,aars2
+onchocerciasis,abcb1
+pheochromocytoma,a1bg-as1
+bradycardia,abca5
+thrombocytopenia,aadac
+fatty liver disease,ppard
+hepatomegaly,cabcoco1
+hypertrichosis,abcc4
+bladder exstrophy,abcb1a
+diabetic angiopathy,ass1
+lung injury,aar2
+fistula,abcc1
+testicular disease,abca2
+bronchiolitis,aanat2
+asthma,abcb9
+cerebral palsy,abcc2
+paraquat lung,abcb5
+oligospermia,abcb1
+alopecia,abcc12
+hepatomegaly,a2m-as1
+heart disease,th
+schizophrenia,taar6
+synovial sarcoma,ssx2
+schizophrenia,frg2
+eye manifestations,aar2
+kartagener syndrome,ccno
+hypotension,abcc11
+endocarditis,aar2
+lung adenocarcinoma,klf5
+acne,abcc2
+ischemic colitis,abcc4
+dry eye syndrome,tgfb1
+cleft lip,abca12
+vitiligo,ctla4
+endometritis,abcg2
+vascular remodeling,aakg-4
+hyperplasia,abcf2
+tooth disease,abca8
+hypogonadism,abcc8
+fetal death,aat-4
+osteoporosis,aar2
+sarcoma,smarcb1
+ileitis,abcd2
+oral cancer,abat
+hyperpigmentation,abca1a
+heart disease,s1pr2
+kyphosis,ltbp3
+barrett's esophagus,kcnj3
+anaphylaxis,abcc4
+breast cancer,notch1
+kaposi's sarcoma,abcb4
+paresthesia,a1cf
+cervical cancer,jak2
+alopecia areata,nt5dc1
+leprosy,nod2
+endometriosis,bmp7
+fibrosis,aagab
+hypertelorism,aard
+psoriasis,sik2
+vitiligo,ctla4
+breast cancer,lrrc37a
+dysostosis,actb
+chondrosarcoma,abcb1
+breast cancer,pthlh
+liver disease,abcb10
+endometrial cancer,a1cf
+prostatitis,aak1
+cysts,abcf2a
+liver cancer,abcd3a
+neural tube defect,pyy
+insulin resistance,ab124611
+facial pain,abcc9
+migraine,aars2
+inflammation,aagr-2
+colitis,tst
+hair disease,aanat
+hypertension,nr1i2
+chromosome breakage,aakg-4
+lepromatous leprosy,abcb1
+sore on skin,abca3
+ovarian cancer,abcc1
+hypertrophy,npy
+ulcerative colitis,tbx21
+lepromatous leprosy,abcb1
+retrograde amnesia,abca13
+cystadenoma,abca1
+spinal cord disease,a1bg-as1
+muscular atrophy,abcb7
+lung cancer,bag4
+psoriasis,prpf18
+sleep disorders,abcb6
+tongue disease,abcd3
+learning disability,aadacl4
+herpes simplex,abcf1
+kidney cancer,cxcl5
+jaw abnormalities,abca1
+limited scleroderma,abcc2
+reperfusion injury,cd36
+cervix disease,abcb1
+polymyositis,abcc3
+asthma,abcb9
+asthma,il12b
+mucositis,abca5
+schizophrenia,qser1
+cardiac oedema,abcg2a
+renal glycosuria,abcb11
+absence epilepsy,abcb1
+hypochromic anemia,abca1a
+fever,aasdhppt
+oral ulcer,abcb1a
+brain abscess,abcc8
+congenital syphilis,abcd4
+kidney disease,7b2
+scoliosis,faah
+allergic disease,abcf2
+malaria,s100a6
+tauopathy,a1cf
+adenoma,abcb1b
+ulcerative colitis,tpm4
+learning disability,abcf-1
+nicotine dependence,abcb4
+colonic disease,abcf2
+birth weight,aard
+ovarian cancer,abcc1
+ear cancer,aatk
+cysticercosis,abcb9
+contact dermatitis,abcg1
+panic disorder,aagab
+acute pancreatitis,aasdhppt
+paralysis,abcg1
+sezary's disease,rps6ka1
+alkalosis,a1bg
+ataxia,abcb4
+psoriasis,sprr1b
+paraparesis,aadac
+parapsoriasis,abcc4
+bone cancer,cdk4
+paresthesia,abcc6
+subacute delirium,aagab
+ureter cancer,abcb6
+follicular cyst,abcd2
+pharynx cancer,pdlim7
+gout,abcb11
+liver disease,srsf5
+barrett's esophagus,znf185
+paralysis,abb
+hair disease,aanat
+atherosclerosis,abca14
+bronchiolitis,abcb7
+ivic syndrome,sall4
+spleen cancer,abca8a
+ataxia,abcc6p1
+fetal death,abcc8
+anxiety disorder,mir34a
+isaacs syndrome,abca6
+hemangioma,abcd4
+impotence,aagab
+gallbladder cancer,abca6
+acidosis,abca8b
+jaw abnormalities,abca1
+vascular diseases,abcc1
+oliguria,abca3b
+eye abnormalities,abca1a
+brain ischemia,sele
+cocaine abuse,a3galt2
+heat stroke,rel
+schizophrenia,mthfr
+hepatitis b,abcb1
+ischemia,aass
+sarcoma 180,aars1
+uremia,ugt1a1
+malaria,zbed2
+brain injuries,apex1
+hiv seropositivity,abca1
+myelomeningocele,abcb6a
+hematologic cancer,prdm1
+polyneuropathy,aatbc
+pituitary adenoma,aagab
+leprosy,nod2
+schizophrenia,a2m
+alcohol dependence,ccdc43
+male infertility,abca9
+pharynx cancer,pdlim7
+asthma,il5
+asthenozoospermia,abca12
+cardiac arrest,abcc10
+leiomyoma,abcf3
+acute disease,a4galt
+carcinoid,aacs
+plant poisoning,abcb6
+lentigo,abca5
+melanoma,rflna
+pre-eclampsia,aacs
+birth weight,aard
+pancreatitis,gcg
+psoriatic arthritis,hoxd3
+nicotine dependence,abcb4
+epilepsy,cers1
+prenatal injuries,rock1
+hypoglycemia,abca14
+echinococcosis,abca6
+bladder disease,vip
+lung adenocarcinoma,strbp
+uterine rupture,abca4
+lung injury,aar2
+polymicrogyria,fig4
+cataplexy,aasdh
+thrombosis,abcb1a
+impotence,aagab
+hypotension,abcc4
+allergic rhinitis,pfn2
+prostate cancer,abcd4
+cancer,dscam
+nausea,abca8b
+myocarditis,n-tutca2
+isaacs syndrome,abca6
+hyperemia,abca8
+bile duct adenoma,abcb11a
+kyphosis,ltbp3
+ulcerative colitis,tbx21
+crohn's disease,thoc2
+kidney disease,alb
+multiple myeloma,aadac
+hyperphagia,aak1a
+hypertrophy,abcb6a
+catalepsy,aamdc
+psoriatic arthritis,nemp1
+tics,aatf
+psoriasis,ccl20
+pancreatic cancer,klc3
+bartter disease,maged2
+skin disease,abcb1b
+carcinoid,aacs
+adenocarcinoma,prkd1
+hookworm disease,abcc4
+prostatic adenoma,abca11p
+parkinson's disease,grik1
+pancreatic cancer,gpr25
+cryptorchidism,abcc8
+hemiplegia,abcg1
+movement disease,7b2
+visual epilepsy,abcd4
+hypothyroidism,duoxa1
+vasculitis,abca8a
+wilson disease,abca17
+hyperphagia,abcb9
+pleurisy,abcc6
+ovarian cancer,abcb5
+melanoma,selenop
+echinococcosis,abca6
+quadriplegia,aacs
+cardiac oedema,abcg2a
+keshan disease,abca1
+leprosy,nod2
+multiple sclerosis,nectin4
+asthenozoospermia,aak1a
+malnutrition nos,aass
+recurrence,abcb6a
+anophthalmos,aasdh
+drug allergy,abcc12
+glucose intolerance,nr5a2
+psoriasis,sprr1b
+muscle rigidity,aatbc
+dysarthria,aamdc
+dyspareunia,aacs
+keloid,abcd2
+spinal disease,abcf2a
+encephalitis,fcer2
+dim vision,aamp
+septic arthritis,abcb9
+alopecia,abcc12
+cervical cancer,jak2
+migraine,slc6a4
+coronary disease,lpa
+mood disorder,aaas
+cervical cancer,jak2
+torsades de pointes,aasdhppt
+wounds and injuries,abca5
+osteoporosis,gpd2
+colonic disease,1-sf
+lung disease,aak1a
+hypercalcemia,abce-1
+pneumoconiosis,aatf
+fibrosis,aagab
+tics,abcb7
+pre-eclampsia,a2mp1
+airway obstruction,abca4
+beta thalassemia,abcc5
+colonic polyps,abca17
+pheochromocytoma,a1bg-as1
+anisometropia,abcb6a
+beta thalassemia,abcc5
+mouth disease,abca8
+hypothyroidism,znf764
+dwarfism,plk4
+lung cancer,mrpl34
+gastric ulcer,abca2
+hematologic cancer,bmerb1
+osteopetrosis,abcc10
+alopecia,abcf1
+urticaria,abcc9
+ulcer,aass
+airway obstruction,aamdc
+fatigue,abca8a
+myelofibrosis,aamdc
+urinary retention,abcc9
+immunodeficiency 42,rorc
+cardiomyopathy,abcb6
+barrett's esophagus,ptk2b
+kidney disease,aatbc
+body weight changes,aaed1
+prolactinoma,abca16
+multiple sclerosis,slc30a7
+mouth disease,abcb9
+synovial sarcoma,ssx2
+multiple myeloma,aacs
+overweight,abcc8
+alzheimer's disease,asip
+body weight changes,abcc11
+hypothermia,abat
+pituitary apoplexy,abcc12
+proteinuria,aanat
+hemoptysis,abcb8
+hyperthyroidism,abcb1b
+dysostosis,actb
+mouth abnormalities,abcb1a
+hypobaropathy nos,abca6
+breast cancer,aamp
+kidney disease,alb
+sleep disorders,a1bg
+microcephaly,a2m-as1
+starvation,abcd2
+psoriasis,prpf18
+psoriatic arthritis,nemp1
+stomach cancer,ndufs1
+serotonin syndrome,abcb9
+esophageal cancer,adcyap1
+neuroblastoma,dock8
+impotence,aar2
+paralysis,abca9
+hypertension,gsk3b
+schizophrenia,nrxn1
+catalepsy,aamdc
+multiple myeloma,aadac
+anemia,tsr2
+kaposi's sarcoma,abcb6
+cleft palate,abcd3
+catatonia,a4galt
+overall survival,edn1
+polyneuropathy,aatbc
+mobility limitation,abca3
+cleft lip,abca12
+pica disease,abca5
+prostate cancer,abcg1
+contact dermatitis,abcg1
+breast cancer,stat5a
+hematologic cancer,ccnd3
+hookworm disease,abcc4
+liver cirrhosis,abca8
+cortical blindness,abcc10
+mc syndrome 2,masp1
+abdominal injuries,abcc8
+vascular dementia,abcc5
+gingival disease,abcb8
+alcohol dependence,mettl25
+tetralogy of fallot,abcb10
+pulmonary edema,a
+ileal diseases,abcb1a
+cluster headache,abcg2
+anemia,fancm
+nicotine dependence,ctns
+pseudotumor cerebri,abca1b
+corneal ulcer,abcb1a
+impotence,oprm1
+serkal syndrome,wnt4
+nerve degeneration,pink1
+hiccup,aars2
+azoospermia,tbca
+cocaine abuse,lrrc7
+tinnitus,aanat2
+melanoma,orai2
+azoospermia,dlec1
+cataract,gja3
+pancreatitis,aldh2
+psoriatic arthritis,derl1
+glioblastoma,aay
+hemangioma,abca8
+mednik syndrome,aars1
+alzheimer's disease,ppargc1a
+cardiac tamponade,abca11p
+breast cancer,notch1
+breast cancer,cd40
+inflammation,ngf
+trichotillomania,slitrk1
+hypertension,wnk1
+nocturnal enuresis,abcb11
+exophthalmos,abcf2
+amenorrhea,abca1
+adenocarcinoma,prkd1
+kaposi's sarcoma,abcb6
+esophagitis,abca4
+alkalosis,a1bg
+cocaine abuse,mir376a
+ovarian cancer,znf23
+abdominal pain,aasdh
+glioblastoma,fosl2
+amnestic disorder,abca5
+pyomyositis,abcc3
+uterine fibroid,hmbox1
+embryonal carcinoma,tnfsf8
+coronary disease,nos3
+coloboma,abcc3
+asthma,abca15
+catalepsy,abcc4
+scoliosis,faah
+colorectal cancer,tcerg1l
+breast cancer,kras
+dyspareunia,aacs
+schizophrenia,hivep1
+cerebellar ataxia,aaas
+cerebellar disease,zeb2
+gaucher's disease,abcg1
+open-angle glaucoma,abcc4
+prolactinoma,abca16
+schizophrenia,nup50
+azoospermia,cdk5rap3
+hypertension,slc12a3
+obesity,hsf1
+choriocarcinoma,aasdh
+hypernatremia,a2m
+edema,abca4
+osteonecrosis,tbc1d32
+thyrotoxicosis,abca7
+embryonal carcinoma,abcb4
+learning disability,abcf-1
+serositis,abcb5
+pharynx cancer,pdlim7
+erythema multiforme,abcd4
+exanthem,aay
+syndrome,a2m
+cataract,aard
+hepatitis,abcd1
+schizophrenia,adamtsl3
+pheochromocytoma,a1bg-as1
+parakeratosis,abat
+hematologic cancer,dedd
+borderline leprosy,abcg2
+periodontitis,met
+hand dermatosis,abcc1
+pyromania,abcc2
+ovarian cysts,abcc5
+asthma,dnah5
+peroneal neuropathy,abca3
+cystadenoma,abca1
+atrial fibrillation,aasdhppt
+cardiotoxicity,abcf2b
+colon cancer,pgk1
+obesity,aacs
+adenocarcinoma,prkd1
+encephalitis,abcc3
+lung cancer,stk11
+myocardial ischemia,tfrc
+glioblastoma,deup1
+hyperpigmentation,abca1a
+ataxia,abcb4
+alopecia areata,tlr1
+alzheimer's disease,calml3
+ovarian cancer,atf3
+melanoma,orai2
+kaposi's sarcoma,fgf3
+obesity,atp2b1
+lung cancer,cd274
+mouth disease,aamp
+stroke,abca5
+aplastic anemia,abcd4
+blue toe syndrome,abcc3
+coma,aak1
+multiple sclerosis,nectin4
+neutropenia,aay
+brucellosis,abcb1a
+dysgerminoma,abcc5
+rhabdomyosarcoma,abcd3
+ulcerative colitis,irf8
+bipolar disorder,aatkb
+intestinal disease,aass
+pulmonary fibrosis,csf3
+parkinson's disease,grik1
+apraxia,abcd3
+tinnitus,abcb10
+psoriasis,myo9a
+kidney cancer,raf1
+bronchial spasm,aak1
+ovarian cancer,guca2a
+renal hypouricemia,aagab
+periodontitis,naa20
+nephrocalcinosis,abcd4
+alzheimer's disease,asip
+urticaria,abat
+stomach disease,abcd1
+nausea,abca8b
+hemangioma,abcd4
+metaplasia,abcb7
+flatulence,abcg2
+gingival recession,aadac
+spinal neoplasms,abcb1b
+enterocolitis,abcb11
+lung injury,aar2
+hyperthyroidism,abcb1b
+phlebitis,abcb1b
+bronchial spasm,aak1
+narcolepsy,a4galt
+keratitis,a2ml1
+adenocarcinoma,vti1a
+prostate cancer,abcd4
+ovarian cysts,aadac
+spinal disease,abcf2a
+kidney cancer,calu
+anorexia,aanat
+enuresis,abcb10
+cardiomyopathy,abcb6
+body weight changes,abcf2
+aplastic anemia,abcb10
+sarcoma,smarcb1
+hematologic cancer,cntn5
+gingival recession,aadac
+oliguria,abca3b
+hyperthyroidism,abcf3
+glucose intolerance,aay
+nephronophthisis 20,mapkbp1
+nephrocalcinosis,abcb6a
+pancreatic cancer,acadm
+diabetic foot,aass
+melanoma,rflna
+osteopetrosis,plekhm1
+breast cancer,cd40
+triple-a syndrome,gmppa
+alopecia,abcc12
+schizophrenia,serpina11
+kaposi's sarcoma,abca12
+kyphosis,ltbp3
+hyperhidrosis,aacs
+cataract,aard
+cardiomyopathy,abcb6
+atrophic gastritis,abcc3
+oligospermia,abcb10
+crohn's disease,pkm
+anemia,fancm
+dermatitis,sharpin
+melanoma,znf750
+anorexia,abcd1
+atrophy,cyp1a2
+vascular dementia,a2m
+prostatic adenoma,abcb1a
+hearing disorders,abat
+borderline leprosy,abcc1
+sick sinus syndrome,abcb5
+myopathy,aatf
+kidney cancer,btd
+colorectal cancer,sult2b1
+malaria,paqr8
+nephrocalcinosis,abcb6a
+hot flashes,abcc11
+aplastic anemia,abcb10
+status epilepticus,aatbc
+asthma,gstm1
+gonadal dysgenesis,fmr1
+muscle rigidity,aatbc
+endometritis,abcg2
+aphonia,abca4
+nephrolithiasis,pfn3
+muscle rigidity,abcb10
+acute porphyria,aass
+splenic disease,abcc9
+amyloidosis,abcb4
+bronchial spasm,aak1
+malaria,s100a6
+migraine,htr2c
+hair disease,aanat
+kartagener syndrome,ccdc65
+hemangioma,abca8
+corneal ulcer,abcb1a
+motor disorders,abat
+albuminuria,abcc13
+proctitis,abcc2
+parkinson's disease,rnf130
+cachexia,aadat
+hyperinsulinism,kcnj11
+multiple myeloma,aadac
+carotid stenosis,abcd3
+peroneal neuropathy,abca3
+thrombosis,hmox1
+anorexia,abca4
+cocaine abuse,abcb5
+teratogenesis,a2ml
+hypohidrosis,abcg2
+glucose intolerance,abcd3
+ovarian cancer,guca2a
+vitreous hemorrhage,abcc6
+parakeratosis,abca1
+dysarthria,abcb5
+tongue disease,abcf2
+anaphylaxis,a4galt
+isaacs syndrome,abca1
+glomerulonephritis,aamp
+anxiety disorder,mir34a
+ulcerative colitis,map3k21
+hypercalciuria,aanat2
+anuria,abce1
+psoriasis,abca8
+infection,abcc3
+dirofilariasis,a2ml1.l
+aortic disease,abca6
+chest pain,abcd4
+adenocarcinoma,abca10
+fibrosis,slc27a2
+thrombosis,crp
+colonic disease,a
+actinic keratosis,a2ml1
+mednik syndrome,aars1
+hyperprolactinemia,abca13
+learning disability,aadacl4
+visual epilepsy,abcb1
+nephritis,abca4
+thrombophilia,aar2
+spinal meningioma,ctsl
+anorexia,aanat
+hemangioma,abca8
+autoimmune diseases,abcb6a
+asthma,prmt5
+schizophrenia,smim22
+posterior uveitis,abat
+choriocarcinoma,aasdh
+atrial flutter,abcc12
+aseptic meningitis,il6
+schizophrenia,hcar2
+hiv seropositivity,abca1
+psoriasis,ccl20
+xerostomia,abcb11
+schizophrenia,csgalnact2
+stomach cancer,abcc6
+ataxia,abca4a
+peliosis hepatis,abcf1
+nicotine dependence,ctns
+refractive error,pdgfra
+mouth disease,aamp
+wounds and injuries,abca5
+endometrial cancer,aasdh
+hyperplasia,mmp9
+prolactinoma,abca16
+colorectal cancer,tnfsf13
+adenocarcinoma,mpp1
+pancreatic cancer,gamt
+prostatitis,abcb8
+melanoma,tyrp1
+airway obstruction,abca4
+weight gain,mapre1
+oral cancer,abat
+alcohol dependence,champ1
+hemorrhagic disease,abcd3
+fanconi syndrome,abcc3
+breast cancer,ralyl
+cataplexy,aasdh
+bladder exstrophy,abcb1a
+cadmium poisoning,abcc6
+pterygium,abcc4
+polyneuropathy,abcd2
+multiple myeloma,aacs
+malaria,hrk
+tooth disease,abcd4
+periodontitis,tnf
+cholelithiasis,a1bg
+pneumonia,abcd4
+sore on skin,abca3
+cardiac tamponade,abca11p
+diarrhea,abca4a
+exanthem,abcg2
+hyperprolactinemia,abca13
+nicotine dependence,fhod3
+kaposi's sarcoma,abcb4
+airway obstruction,aamdc
+myotonia,a4galt
+oliguria,abca3b
+duodenal ulcer,abo
+hyperkalemia,abcc9
+carotid stenosis,abcc1
+benign mesothelioma,abcc1
+dwarfism,plk4
+acquired angioedema,kng1
+endometrial cancer,abcg2
+cryptorchidism,abcc8
+prostate cancer,mlh1
+weight gain,faah
+spondylosis,aard
+pancreatic cancer,sars1
+meningocele,aagab
+embryo loss,abca17p
+necrosis,gstp1
+dental fluorosis,abcb4
+insomnia,abcc1
+gastritis,abcd2
+subacute delirium,aagab
+pheochromocytoma,aamdc
+erythema multiforme,abcd4
+paresis,abcb5
+west syndrome,aanat
+teratogenesis,abca1a
+pancreatic cancer,gpr25
+chromosome breakage,abcd2
+cerebral hemorrhage,abcc6b.2
+stomach cancer,rbp1
+hematologic cancer,prdm1
+recurrence,abca4
+colitis,tst
+melanoma,abcg1
+melanoma,sox15
+chromosome breakage,aakg-4
+amenorrhea,aanat2
+isaacs syndrome,abca1
+aphonia,abcc4
+somatoform disorder,abca1
+anemia,tsr2
+hypothyroidism,znf764
+insulin resistance,ab124611
+memory disorders,5-ht1b
+pre-eclampsia,a2mp1
+kidney cancer,a1cf
+adenocarcinoma,vti1a
+hematologic cancer,abcc8
+hypogonadism,abcc8
+hot flashes,abcc11
+melanoma,abcg1
+dent disease,abcc4
+encephalitis,abcc3
+lymphopenia,aadac
+hallucinations,abcb8
+schizophrenia,or4k17
+periodontitis,met
+bronchiolitis,aanat2
+brain injuries,abcf-1
+endometriosis,mettl7a
+chest pain,abcd4
+epididymitis,aacs
+anodontia,wnt10a
+jaundice,abcd4
+tetralogy of fallot,abcb10
+keloid,tpsb2
+pancreatitis,gcg
+syphilis,aanat
+uterine fibroid,hmga2
+insulin resistance,ab124611
+brain death,abcc11
+bone marrow disease,a2ml
+hemorrhage,abcg2a
+peliosis hepatis,aamp
+barrett's esophagus,nelfa
+tooth disease,abcd4
+glucose intolerance,abcc6a
+fibrosarcoma,aatkb
+migraine,slc6a4
+fetal death,aat-4
+parkinson's disease,rnf130
+eyelid disease,abcc11
+teratogenesis,abcb6
+hyperemia,abca16
+myocarditis,abcb1
+cholestasis,slc30a10
+dysgerminoma,abcc5
+sore on skin,abca3
+spina bifida,abca6
+schizophrenia,ctdnep1
+phenylketonuria,pah
+albuminuria,abcb11a
+cardiotoxicity,aaas
+paralysis,trpm7
+bone cancer,abcg1
+thyrotoxicosis,abcc6
+pulmonary fibrosis,hgf
+hypothermia,abat
+beta thalassemia,klf4
+aphonia,abca1
+ulcerative colitis,map3k21
+graves' disease,abcc4
+vascular cancer,abcc3
+hypogonadism,abcc8
+ulcerative colitis,tbx21
+anemia,epor
+coma,abcb1b
+biliary dyskinesia,abca3
+adenocarcinoma,tpm3
+brucellosis,abcb1a
+ovarian cancer,atf3
+hypopigmentation,abcc6
+acquired angioedema,kng1
+bacterial sepsis,abca11p
+acid-base imbalance,abca5
+catalepsy,aamdc
+bacteremia,tirap
+dysarthria,aak1
+acidosis,abca8b
+nematode infections,aamp
+anorexia,abcd1
+poisoning,abat
+coronary disease,crp
+myocarditis,n-tutca2
+heart disease,xdh
+breast disease,abcc3
+atrial fibrillation,abca17
+gastritis,aatk
+back pain,abcf1
+hematologic cancer,bmerb1
+fetal hypoxia,abcb11
+azoospermia,kri1
+gliosis,itga2
+anophthalmos,aak1
+crohn's disease,nos2
+anuria,aatbc
+byssinosis,abca13
+ulcer,aass
+anoxia,abca6
+melanoma,abca14
+cardiotoxicity,aaas
